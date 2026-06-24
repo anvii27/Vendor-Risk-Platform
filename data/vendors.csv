@@ -1,0 +1,1001 @@
+Vendor_ID,Vendor_Name,Vendor_Category,Vendor_Circle,Service_Criticality,Region,Critical_Findings,High_Findings,Open_Risks,Compliance_Score,VAPT_Findings,Patch_Compliance,MFA_Enabled,Data_Access_Level,DLP_Violations,Security_Incidents,SLA_Breaches,Mitigation_Overdue_Days,Last_Assessment_Date,Assessment_Frequency,Risk_Review_Status
+V0001,Chaudhry LLC,Network Equipment,Noida,High,East,0,0,4,95,0,89,Yes,Sensitive,0,1,0,0,2025-11-24,Annually,Open
+V0002,Kara LLC,Data Center Services,Maharashtra,Critical,West,0,4,5,80,2,72,Yes,Confidential,2,0,0,0,2025-07-13,Half-Yearly,Mitigation In Progress
+V0003,Badal LLC,IT Support,Mumbai,High,East,0,3,4,85,4,88,Yes,Internal,2,2,1,0,2025-11-26,Monthly,Under Review
+V0004,Narain Group,NOC Operations,Gujarat,Medium,North,0,2,1,90,0,99,Yes,Sensitive,0,0,0,0,2025-09-05,Monthly,Mitigation In Progress
+V0005,Peri Inc,Power Infrastructure,Kerala,Critical,North,3,5,6,70,7,61,No,Public,2,2,2,45,2025-08-13,Half-Yearly,Open
+V0006,"Halder, Doshi and Gade",IT Support,Assam,Medium,East,0,0,4,90,3,86,Yes,Sensitive,0,0,0,15,2026-04-27,Annually,Under Review
+V0007,Ratta Ltd,Fiber Operations,Karnataka,High,North,3,6,11,65,5,74,Yes,Sensitive,2,1,1,45,2026-02-23,Monthly,Under Review
+V0008,Solanki-Dey,IT Support,Odisha,Low,West,1,2,4,80,0,98,No,Sensitive,0,0,1,0,2025-08-18,Annually,Closed
+V0009,Dhaliwal-Ganguly,Cyber Security Services,Andhra Pradesh,High,South,3,5,3,85,3,75,Yes,Internal,1,2,0,45,2025-11-25,Monthly,Mitigation In Progress
+V0010,"Barad, Agate and Nayar",Field Operations,Haryana,High,South,8,14,7,55,7,56,No,Confidential,5,3,3,90,2026-05-16,Quarterly,Closed
+V0011,"Garde, Ravi and Chand",Data Center Services,Madhya Pradesh,Medium,South,1,7,3,80,2,85,No,Internal,0,2,2,0,2026-03-21,Quarterly,Closed
+V0012,Parmer-Pall,Field Operations,Tamil Nadu,Medium,South,4,10,4,75,4,77,No,Internal,2,1,3,45,2026-02-28,Quarterly,Mitigation In Progress
+V0013,Parmar LLC,Fiber Operations,Delhi,Medium,West,3,3,6,85,3,74,Yes,Confidential,1,0,0,30,2026-02-20,Half-Yearly,Closed
+V0014,"Palla, Baria and Magar",Fiber Operations,Madhya Pradesh,Critical,West,0,6,2,90,2,78,Yes,Sensitive,0,0,1,30,2026-01-05,Quarterly,Under Review
+V0015,Bains Ltd,Cloud Services,Gurugram,Medium,North,6,11,7,70,3,62,No,Internal,1,1,1,45,2025-08-08,Annually,Under Review
+V0016,Bala-Walla,RF Optimization,Odisha,High,South,3,13,4,75,4,76,Yes,Confidential,2,2,1,45,2025-07-27,Half-Yearly,Mitigation In Progress
+V0017,Deshmukh-Walla,Tower Maintenance,Mohali,High,West,6,7,8,75,5,78,Yes,Internal,3,2,3,90,2026-02-27,Quarterly,Closed
+V0018,"Chakraborty, Parmar and Sodhi",RF Optimization,Telangana,High,West,1,2,1,95,0,100,Yes,Confidential,0,0,1,0,2026-06-10,Annually,Closed
+V0019,Sami LLC,Network Equipment,Haryana,Low,West,0,1,2,90,0,89,Yes,Sensitive,0,0,0,15,2025-11-11,Quarterly,Closed
+V0020,Mangal-Aurora,RF Optimization,Gurugram,Critical,East,0,0,4,95,0,89,Yes,Public,0,1,1,0,2025-12-08,Annually,Under Review
+V0021,Samra Ltd,Cyber Security Services,West Bengal,High,South,0,1,2,85,2,88,Yes,Internal,0,0,1,0,2025-08-08,Quarterly,Under Review
+V0022,"Ram, Murty and Badal",RF Optimization,Tamil Nadu,Medium,East,0,0,0,85,0,92,Yes,Internal,0,0,0,0,2025-10-28,Half-Yearly,Under Review
+V0023,Mital PLC,Tower Maintenance,Maharashtra,Medium,North,0,3,2,75,2,86,Yes,Confidential,0,2,0,45,2026-06-13,Quarterly,Open
+V0024,Date-Bath,IT Support,Rajasthan,Critical,East,2,4,3,85,3,83,Yes,Public,1,2,0,15,2026-05-07,Half-Yearly,Open
+V0025,Ramaswamy-Sharma,Power Infrastructure,Maharashtra,Low,East,8,11,11,40,5,58,No,Confidential,4,4,3,60,2025-10-12,Monthly,Under Review
+V0026,Lanka PLC,Cloud Services,Mumbai,Medium,East,5,13,6,80,6,64,No,Internal,1,2,1,90,2026-01-11,Quarterly,Open
+V0027,Varty Ltd,RF Optimization,UP East,Low,North,0,2,2,85,3,72,No,Confidential,1,0,0,30,2026-02-27,Annually,Closed
+V0028,Narula LLC,Field Operations,Madhya Pradesh,Low,South,0,2,1,90,0,87,No,Public,0,0,0,0,2025-10-20,Monthly,Open
+V0029,Keer and Sons,Managed Services,Madhya Pradesh,High,South,0,5,1,85,0,97,Yes,Public,1,0,0,15,2026-05-05,Half-Yearly,Closed
+V0030,Sen PLC,Cyber Security Services,Mumbai,Low,East,0,6,6,85,2,84,Yes,Confidential,0,1,0,30,2026-05-15,Annually,Mitigation In Progress
+V0031,Balasubramanian-Verma,Tower Maintenance,West Bengal,High,West,3,7,8,70,7,77,Yes,Internal,4,2,2,60,2025-11-18,Quarterly,Closed
+V0032,"Bhasin, Goswami and Kar",Data Center Services,UP West,Medium,West,0,3,0,95,0,91,Yes,Sensitive,0,0,0,0,2025-12-20,Half-Yearly,Open
+V0033,"Dara, Basu and Rajagopalan",Cyber Security Services,Andhra Pradesh,Critical,North,1,2,4,90,2,74,Yes,Internal,0,1,1,45,2026-03-10,Half-Yearly,Under Review
+V0034,Handa-Kohli,Field Operations,Bihar,Low,East,6,6,9,65,7,72,Yes,Sensitive,4,1,1,30,2025-12-01,Annually,Mitigation In Progress
+V0035,Doctor-Sharma,NOC Operations,Assam,High,North,4,8,10,75,5,75,No,Confidential,2,2,1,30,2025-08-17,Monthly,Open
+V0036,"Ramakrishnan, Ram and Kunda",Fiber Operations,Noida,Low,North,1,4,4,80,4,85,No,Internal,1,2,0,15,2026-05-28,Quarterly,Mitigation In Progress
+V0037,Bali Inc,RF Optimization,Maharashtra,Low,South,2,3,2,85,3,77,No,Public,1,1,1,15,2025-08-21,Monthly,Closed
+V0038,Oommen Group,Tower Maintenance,Bihar,Low,South,4,7,6,70,7,67,No,Confidential,2,2,2,45,2025-08-25,Monthly,Under Review
+V0039,Salvi PLC,Power Infrastructure,Assam,Critical,West,9,15,11,60,5,62,No,Internal,4,4,4,120,2026-06-06,Half-Yearly,Closed
+V0040,Om-Johal,Power Infrastructure,West Bengal,Low,East,1,2,4,80,2,73,Yes,Sensitive,2,0,0,0,2025-09-30,Annually,Under Review
+V0041,Bava Group,Managed Services,Noida,Critical,West,0,0,2,95,0,97,Yes,Internal,0,0,0,0,2026-04-17,Half-Yearly,Closed
+V0042,Raman-Mody,Power Infrastructure,Delhi,High,West,4,12,8,75,5,68,No,Confidential,2,3,1,45,2025-08-17,Annually,Open
+V0043,Oak-Rout,NOC Operations,Mohali,Medium,North,1,7,4,80,1,78,Yes,Internal,0,1,0,15,2025-10-16,Monthly,Mitigation In Progress
+V0044,Nagarajan-Thakkar,Fiber Operations,Odisha,Critical,North,8,8,9,65,5,64,No,Confidential,5,5,3,60,2025-10-15,Annually,Open
+V0045,Warrior Ltd,Field Operations,Odisha,Medium,West,1,0,2,85,0,94,Yes,Internal,0,0,0,0,2025-12-30,Half-Yearly,Mitigation In Progress
+V0046,Roy-Ranganathan,Data Center Services,West Bengal,Medium,West,0,4,2,80,4,73,No,Confidential,1,1,2,45,2025-06-29,Monthly,Closed
+V0047,Padmanabhan-Lata,IT Support,UP West,Medium,West,10,16,6,40,7,51,No,Internal,7,5,3,60,2025-10-17,Annually,Mitigation In Progress
+V0048,Bhagat-Sachdev,Cloud Services,Haryana,Critical,West,0,1,1,85,0,86,Yes,Internal,0,0,0,0,2025-12-20,Half-Yearly,Under Review
+V0049,Raghavan-Rao,Managed Services,Mohali,High,North,0,6,5,85,2,84,No,Internal,1,0,1,30,2025-10-08,Quarterly,Mitigation In Progress
+V0050,Babu-D’Alia,Field Operations,Telangana,Low,South,0,2,8,90,1,73,Yes,Internal,0,0,1,0,2026-01-01,Monthly,Closed
+V0051,"Pandit, De and Dhingra",Managed Services,UP East,Low,East,6,6,10,65,5,68,No,Internal,1,3,2,60,2026-04-30,Monthly,Closed
+V0052,"Parmar, Venkataraman and Deep",Tower Maintenance,Maharashtra,Critical,North,0,4,3,80,2,95,Yes,Confidential,1,0,0,0,2026-01-23,Monthly,Closed
+V0053,"Patla, Sekhon and Nair",Tower Maintenance,Madhya Pradesh,Low,North,8,12,6,40,7,56,No,Sensitive,4,3,5,90,2025-07-27,Monthly,Closed
+V0054,"Dar, Suresh and Mall",Power Infrastructure,Noida,Medium,West,0,3,4,80,3,84,Yes,Internal,0,0,0,30,2026-04-19,Quarterly,Open
+V0055,Ravel Ltd,Cloud Services,Mumbai,Critical,West,2,7,2,70,4,79,Yes,Public,0,2,0,15,2025-10-26,Half-Yearly,Under Review
+V0056,Chaudhuri-Shankar,Network Equipment,Delhi,Critical,South,0,0,0,90,0,94,Yes,Sensitive,0,0,0,15,2026-04-15,Monthly,Mitigation In Progress
+V0057,Pingle Ltd,Power Infrastructure,Assam,Low,South,1,4,2,70,2,87,Yes,Internal,0,1,0,15,2026-04-21,Quarterly,Under Review
+V0058,"Nanda, Gaba and Hayer",Fiber Operations,Gurugram,Medium,North,0,1,1,95,0,98,Yes,Internal,0,0,0,0,2025-07-07,Annually,Open
+V0059,"Salvi, Nadkarni and Chander",Power Infrastructure,Odisha,Low,East,5,8,4,70,6,75,No,Sensitive,2,2,3,90,2026-04-04,Monthly,Mitigation In Progress
+V0060,Khanna Ltd,Network Equipment,Madhya Pradesh,Low,South,0,0,2,90,3,99,Yes,Public,0,0,0,15,2026-04-16,Half-Yearly,Closed
+V0061,"Bassi, Basu and Shetty",Cyber Security Services,Andhra Pradesh,Medium,West,0,0,2,100,1,85,Yes,Confidential,0,0,1,15,2026-06-03,Annually,Under Review
+V0062,"Kakar, Sani and Dixit",Fiber Operations,Karnataka,Critical,East,0,0,0,100,2,87,Yes,Internal,1,0,0,0,2025-10-14,Monthly,Closed
+V0063,Butala-Walia,RF Optimization,Rajasthan,Low,East,0,2,5,95,2,85,Yes,Internal,0,0,0,15,2025-10-24,Quarterly,Under Review
+V0064,"Sharaf, Balay and Dayal",Cyber Security Services,Gujarat,Medium,West,0,0,1,90,0,90,Yes,Public,1,0,0,15,2026-02-07,Annually,Mitigation In Progress
+V0065,Patel-Pandit,RF Optimization,Andhra Pradesh,Medium,West,0,1,3,90,0,97,Yes,Confidential,0,0,0,0,2026-01-01,Half-Yearly,Under Review
+V0066,Shukla-Sur,Cyber Security Services,Chandigarh,Critical,West,6,12,9,80,6,74,No,Internal,3,2,2,90,2026-05-28,Annually,Closed
+V0067,"Sodhi, Gade and Bhatia",IT Support,Mumbai,Low,West,4,5,9,70,7,73,Yes,Public,2,1,2,30,2025-08-23,Monthly,Under Review
+V0068,Saini and Sons,Tower Maintenance,Telangana,Low,West,3,6,2,75,2,72,No,Public,2,2,0,15,2025-11-15,Quarterly,Closed
+V0069,Prabhu Group,Managed Services,Chandigarh,Low,West,0,1,0,90,0,96,Yes,Sensitive,0,0,0,0,2026-01-02,Monthly,Mitigation In Progress
+V0070,"Vohra, Bail and Mangat",NOC Operations,Mohali,High,West,1,1,2,100,1,89,Yes,Public,0,0,0,0,2025-12-24,Annually,Open
+V0071,Balan PLC,Network Equipment,Gurugram,High,North,0,0,1,85,3,89,No,Sensitive,0,0,0,0,2025-08-08,Monthly,Open
+V0072,Dar-Sidhu,Network Equipment,Karnataka,Medium,South,3,6,6,80,4,74,Yes,Public,1,1,2,30,2026-06-17,Annually,Under Review
+V0073,"Borra, Mann and Dutta",RF Optimization,Gujarat,Low,East,0,3,4,85,2,85,No,Sensitive,0,2,1,0,2026-02-24,Half-Yearly,Open
+V0074,Borra-Sur,Cyber Security Services,Noida,Critical,North,3,9,10,75,6,64,Yes,Public,2,2,3,45,2025-10-29,Half-Yearly,Closed
+V0075,Keer-Prabhakar,NOC Operations,West Bengal,Medium,North,0,2,4,80,2,98,Yes,Public,0,0,0,0,2025-08-23,Quarterly,Open
+V0076,Bir PLC,NOC Operations,Kerala,Critical,East,1,6,3,80,2,77,Yes,Confidential,1,0,0,15,2026-01-29,Quarterly,Closed
+V0077,Ranganathan and Sons,IT Support,UP West,High,West,0,2,4,80,1,100,Yes,Sensitive,0,0,0,0,2025-11-18,Annually,Under Review
+V0078,"Sarna, Sandhu and Memon",Power Infrastructure,Mumbai,Critical,East,0,2,1,95,0,91,Yes,Sensitive,0,0,0,0,2026-02-15,Half-Yearly,Mitigation In Progress
+V0079,"Pau, Khalsa and Warrior",Managed Services,Noida,Low,East,0,0,0,95,0,98,Yes,Confidential,0,0,0,0,2026-06-19,Half-Yearly,Mitigation In Progress
+V0080,Madan Inc,Network Equipment,Odisha,Medium,North,1,2,6,70,2,79,No,Confidential,1,2,0,15,2025-07-04,Quarterly,Mitigation In Progress
+V0081,Chokshi Ltd,IT Support,Mumbai,Medium,East,0,0,1,80,1,98,Yes,Confidential,1,0,0,0,2025-09-19,Annually,Closed
+V0082,"Sama, Sen and Rajan",Network Equipment,Gurugram,Medium,North,1,2,5,80,2,85,No,Public,0,1,0,0,2025-10-26,Half-Yearly,Open
+V0083,Mital PLC,Fiber Operations,Kerala,High,North,4,11,7,65,4,67,No,Sensitive,1,3,3,60,2025-09-26,Annually,Mitigation In Progress
+V0084,Panchal-Rajan,Cyber Security Services,UP East,Medium,West,3,4,5,85,1,87,Yes,Internal,0,1,1,45,2025-07-12,Half-Yearly,Mitigation In Progress
+V0085,Ranganathan-Mand,Fiber Operations,Noida,Low,East,0,0,2,90,0,92,Yes,Confidential,0,1,0,0,2025-07-18,Quarterly,Under Review
+V0086,Ganesh Inc,Managed Services,Gurugram,Medium,North,0,0,2,80,1,98,Yes,Sensitive,0,0,1,0,2026-04-10,Annually,Closed
+V0087,Vyas PLC,Network Equipment,Tamil Nadu,Low,East,4,5,6,65,4,70,Yes,Public,3,1,2,30,2026-06-23,Monthly,Closed
+V0088,Saha-Toor,Cloud Services,Karnataka,High,East,3,11,5,70,6,60,Yes,Confidential,1,1,1,90,2025-11-30,Monthly,Under Review
+V0089,Swamy Group,Cloud Services,Madhya Pradesh,High,West,0,3,0,100,1,94,Yes,Public,1,0,0,0,2025-09-01,Monthly,Mitigation In Progress
+V0090,"Cheema, Sethi and Pathak",Power Infrastructure,Chandigarh,Critical,South,9,8,6,45,8,46,No,Confidential,3,4,4,90,2026-02-25,Annually,Mitigation In Progress
+V0091,Raman and Sons,Cloud Services,Noida,High,North,0,4,6,80,2,82,Yes,Public,2,1,1,30,2026-01-13,Half-Yearly,Open
+V0092,"Kapadia, Natt and Saini",Field Operations,Maharashtra,Low,North,0,3,1,90,0,98,Yes,Public,0,0,0,0,2026-06-13,Monthly,Under Review
+V0093,"Gade, Bobal and Basu",Field Operations,Andhra Pradesh,High,South,0,0,1,100,2,97,Yes,Confidential,1,0,0,0,2025-12-16,Half-Yearly,Mitigation In Progress
+V0094,"Bandi, Venkatesh and Devan",IT Support,Chandigarh,Medium,East,1,1,3,85,0,90,Yes,Public,0,0,0,0,2025-12-28,Half-Yearly,Closed
+V0095,Pingle-Kalla,Managed Services,Noida,Low,West,3,9,6,70,4,69,Yes,Sensitive,3,1,1,60,2026-03-02,Annually,Mitigation In Progress
+V0096,Dayal-Rout,RF Optimization,Karnataka,High,South,0,8,4,90,1,83,No,Internal,0,1,0,45,2025-08-06,Half-Yearly,Open
+V0097,Seshadri-Ramesh,RF Optimization,UP East,Critical,East,1,3,3,85,1,76,No,Sensitive,0,1,1,30,2025-08-14,Monthly,Closed
+V0098,Kamdar-Wali,IT Support,Rajasthan,Low,West,0,1,0,95,0,87,Yes,Sensitive,1,0,1,0,2026-04-25,Quarterly,Under Review
+V0099,"Dani, Ben and Chadha",Cloud Services,Bihar,High,West,0,4,7,75,1,88,Yes,Confidential,1,0,0,0,2026-02-01,Annually,Under Review
+V0100,Khalsa-Rajagopal,RF Optimization,Andhra Pradesh,Critical,North,1,6,8,75,1,86,No,Sensitive,1,1,1,15,2025-10-20,Quarterly,Mitigation In Progress
+V0101,"Pandey, Badal and Toor",Fiber Operations,Assam,High,East,0,6,2,80,1,86,Yes,Internal,0,0,2,0,2026-04-30,Monthly,Under Review
+V0102,"Randhawa, Karpe and Prasad",NOC Operations,Punjab,High,East,0,0,1,80,0,94,Yes,Internal,0,0,0,0,2025-10-17,Annually,Closed
+V0103,"Rana, Mani and Iyer",Field Operations,Andhra Pradesh,Critical,South,2,8,4,75,2,86,Yes,Internal,1,2,0,0,2025-07-28,Monthly,Under Review
+V0104,Nair LLC,Field Operations,Mumbai,High,North,4,6,4,75,6,72,Yes,Internal,1,2,2,60,2025-12-25,Annually,Closed
+V0105,"Ram, Bhat and Sant",Field Operations,UP West,High,South,3,11,4,75,4,77,No,Sensitive,3,1,2,30,2026-03-23,Half-Yearly,Mitigation In Progress
+V0106,Choudhury and Sons,RF Optimization,Bihar,Low,West,5,8,7,75,6,73,Yes,Sensitive,3,3,1,60,2025-12-28,Monthly,Under Review
+V0107,"Nath, Sundaram and Trivedi",Network Equipment,Mumbai,Low,West,4,7,9,70,7,74,Yes,Public,1,2,1,90,2026-05-22,Half-Yearly,Closed
+V0108,Wali PLC,Cloud Services,Gujarat,Low,East,0,1,0,85,2,87,Yes,Sensitive,0,0,0,0,2025-12-25,Half-Yearly,Closed
+V0109,"Dhillon, Majumdar and Khosla",Data Center Services,Delhi,High,North,4,7,10,70,6,75,Yes,Internal,1,3,3,30,2025-12-16,Quarterly,Closed
+V0110,Pandit and Sons,Data Center Services,Madhya Pradesh,High,East,2,4,8,75,1,73,No,Internal,0,0,0,15,2026-01-16,Monthly,Closed
+V0111,Date LLC,Cloud Services,Karnataka,High,West,0,0,1,95,0,99,Yes,Public,0,0,0,0,2025-09-01,Quarterly,Closed
+V0112,Gill PLC,Data Center Services,Gujarat,Low,North,4,7,8,80,4,69,No,Internal,3,2,1,45,2026-04-30,Half-Yearly,Open
+V0113,"Atwal, Sengupta and Sani",RF Optimization,Delhi,High,East,1,2,4,80,5,76,No,Sensitive,1,0,0,30,2025-11-19,Quarterly,Mitigation In Progress
+V0114,"Madan, Mital and Sankar",Fiber Operations,Chandigarh,High,North,4,9,8,70,6,63,Yes,Internal,1,2,2,90,2025-09-05,Half-Yearly,Under Review
+V0115,Mody-De,NOC Operations,Odisha,Medium,South,0,1,0,90,1,87,Yes,Internal,0,0,0,0,2026-01-11,Half-Yearly,Under Review
+V0116,Prabhakar-Kohli,RF Optimization,Kerala,Critical,North,1,1,1,100,1,94,No,Confidential,1,0,0,0,2025-06-29,Monthly,Closed
+V0117,Bhattacharyya Group,Cloud Services,Bihar,High,North,0,3,3,95,0,99,Yes,Confidential,1,0,0,0,2026-04-06,Monthly,Closed
+V0118,"Tak, Sunder and Barman",Data Center Services,Chandigarh,Critical,West,3,4,5,75,2,83,Yes,Public,2,1,0,30,2025-07-22,Monthly,Closed
+V0119,Butala PLC,Cyber Security Services,Haryana,Critical,West,0,8,4,85,1,82,Yes,Public,2,1,0,0,2025-09-27,Quarterly,Closed
+V0120,"Pandit, Kamdar and Sengupta",Tower Maintenance,Chandigarh,Low,South,5,8,4,70,6,63,No,Public,4,2,1,30,2026-03-08,Annually,Open
+V0121,Sathe Inc,IT Support,Punjab,Medium,East,0,2,0,90,0,87,Yes,Sensitive,0,0,0,0,2026-02-14,Half-Yearly,Closed
+V0122,Bhargava Ltd,NOC Operations,UP East,High,North,1,6,3,75,1,74,No,Confidential,1,0,0,0,2026-06-22,Quarterly,Open
+V0123,Kulkarni-Dubey,Data Center Services,Gurugram,Critical,West,0,2,0,100,1,86,Yes,Confidential,0,0,1,0,2025-09-22,Half-Yearly,Under Review
+V0124,Ramachandran PLC,RF Optimization,Mohali,Critical,West,1,6,5,80,1,81,Yes,Confidential,2,0,0,15,2026-05-26,Quarterly,Under Review
+V0125,Kadakia LLC,Fiber Operations,Haryana,High,South,2,5,2,80,1,81,Yes,Sensitive,0,1,0,15,2025-12-14,Annually,Mitigation In Progress
+V0126,Tara-Bandi,Power Infrastructure,Maharashtra,High,North,6,9,8,50,5,62,No,Sensitive,4,4,5,90,2026-04-15,Half-Yearly,Closed
+V0127,"Prasad, Lala and Maharaj",Field Operations,Karnataka,High,North,8,11,8,60,7,52,Yes,Public,4,4,3,120,2026-05-06,Half-Yearly,Closed
+V0128,"Mann, Goyal and Bhalla",Tower Maintenance,Mohali,Critical,North,0,3,1,90,0,91,Yes,Sensitive,0,0,0,0,2025-08-17,Annually,Under Review
+V0129,Venkatesh-Yohannan,Field Operations,Maharashtra,High,East,9,12,7,50,7,62,No,Confidential,3,4,5,120,2025-07-09,Monthly,Closed
+V0130,Sehgal PLC,Data Center Services,UP East,Medium,West,0,4,4,80,2,74,Yes,Internal,0,0,0,30,2025-11-27,Quarterly,Mitigation In Progress
+V0131,Zachariah Inc,Power Infrastructure,UP East,High,South,1,4,2,75,1,77,No,Confidential,1,1,0,15,2025-10-27,Monthly,Open
+V0132,Patla-Pandya,Field Operations,Mumbai,Low,South,3,12,10,75,4,68,Yes,Internal,4,2,1,60,2026-04-04,Annually,Open
+V0133,Balay-Kalita,Network Equipment,Odisha,Medium,South,3,8,4,75,6,73,No,Sensitive,3,2,2,45,2026-02-20,Annually,Mitigation In Progress
+V0134,Kaul-Iyer,Power Infrastructure,Karnataka,High,South,0,5,3,75,2,74,Yes,Public,0,1,1,15,2026-04-01,Quarterly,Under Review
+V0135,"Nath, Sane and Khare",Field Operations,Haryana,Low,North,4,9,10,70,6,63,No,Sensitive,2,2,2,60,2025-11-30,Annually,Mitigation In Progress
+V0136,"Datta, Suresh and Buch",Fiber Operations,Gurugram,Low,South,7,12,6,60,9,55,No,Sensitive,3,4,4,180,2026-02-17,Monthly,Open
+V0137,Bhatt-Nadkarni,NOC Operations,Assam,High,South,10,10,9,60,8,49,Yes,Public,5,4,3,90,2025-11-21,Quarterly,Under Review
+V0138,"Shere, Date and Mukhopadhyay",Network Equipment,Odisha,Low,East,0,0,0,85,3,98,Yes,Sensitive,0,1,0,0,2026-02-11,Annually,Closed
+V0139,Mishra-Gade,Fiber Operations,Delhi,Medium,East,0,1,1,90,0,96,Yes,Internal,0,0,0,15,2026-04-18,Half-Yearly,Mitigation In Progress
+V0140,Sekhon and Sons,Data Center Services,West Bengal,Low,North,2,7,3,80,5,81,Yes,Sensitive,2,0,0,30,2025-12-13,Monthly,Open
+V0141,Madan LLC,Tower Maintenance,Assam,High,West,0,1,2,85,0,87,Yes,Internal,0,0,1,15,2025-08-18,Monthly,Mitigation In Progress
+V0142,"Sachar, Banerjee and Shah",Network Equipment,Kerala,Critical,South,2,3,7,80,1,86,Yes,Confidential,0,0,2,0,2025-10-20,Annually,Under Review
+V0143,Aggarwal-Khosla,Cyber Security Services,Gurugram,High,South,0,0,3,85,1,86,Yes,Confidential,0,0,0,0,2026-02-08,Half-Yearly,Closed
+V0144,Shukla Inc,Network Equipment,Tamil Nadu,Critical,South,10,11,8,50,7,64,Yes,Confidential,6,5,5,120,2025-10-05,Monthly,Open
+V0145,Bhakta PLC,Power Infrastructure,Rajasthan,Critical,East,1,0,0,90,0,85,Yes,Confidential,0,0,0,0,2025-09-30,Annually,Closed
+V0146,Luthra-Singhal,Network Equipment,Noida,Critical,South,0,3,3,80,4,76,Yes,Internal,1,2,2,0,2026-03-29,Quarterly,Under Review
+V0147,Gokhale and Sons,Cloud Services,Mumbai,Critical,North,0,4,7,90,1,79,No,Confidential,0,0,1,0,2025-07-11,Half-Yearly,Mitigation In Progress
+V0148,"Natt, Oza and Mittal",Power Infrastructure,Andhra Pradesh,Low,South,1,2,2,75,2,72,Yes,Confidential,0,0,0,30,2026-06-13,Annually,Open
+V0149,Rout-Shere,Field Operations,Noida,High,East,4,11,4,60,4,68,No,Sensitive,2,1,3,45,2026-02-10,Quarterly,Under Review
+V0150,"Vyas, Mannan and Doctor",Power Infrastructure,Haryana,High,North,0,3,5,80,0,99,Yes,Public,0,1,0,0,2026-03-08,Half-Yearly,Under Review
+V0151,Karan Inc,Field Operations,Punjab,Low,West,0,6,2,90,1,88,No,Public,0,2,0,30,2026-02-22,Annually,Open
+V0152,Sule LLC,IT Support,West Bengal,Low,West,3,8,6,85,1,72,Yes,Internal,1,0,2,30,2025-08-09,Half-Yearly,Closed
+V0153,Rajan-Chauhan,Tower Maintenance,Assam,Low,West,0,1,0,95,1,89,Yes,Sensitive,0,0,0,0,2026-03-04,Half-Yearly,Mitigation In Progress
+V0154,Sandal PLC,Power Infrastructure,Gurugram,Critical,East,9,15,10,50,9,51,Yes,Public,4,4,3,60,2026-05-02,Quarterly,Under Review
+V0155,Aggarwal Inc,Field Operations,Telangana,High,South,2,2,2,70,1,85,Yes,Sensitive,1,1,0,0,2025-08-17,Monthly,Under Review
+V0156,"Garg, Agarwal and Dora",Power Infrastructure,Maharashtra,Low,East,2,3,3,85,5,74,Yes,Internal,1,0,2,15,2026-03-16,Half-Yearly,Closed
+V0157,Gokhale-Cheema,Cloud Services,Haryana,Low,East,1,2,6,85,1,76,Yes,Public,2,0,1,15,2026-05-29,Annually,Open
+V0158,"Badal, Suri and Deol",Data Center Services,Mumbai,Medium,West,1,5,6,70,2,73,No,Internal,0,0,0,30,2026-04-15,Monthly,Open
+V0159,Shanker-Hayre,RF Optimization,Assam,Low,North,1,5,6,85,4,79,No,Sensitive,0,0,0,0,2025-12-03,Quarterly,Under Review
+V0160,"Mane, Dey and Dara",RF Optimization,Delhi,Medium,South,0,3,3,70,5,72,No,Confidential,0,2,0,0,2025-08-31,Quarterly,Mitigation In Progress
+V0161,Tandon-Prabhakar,Tower Maintenance,Chandigarh,High,North,0,2,0,85,1,96,Yes,Internal,0,0,0,0,2025-10-24,Annually,Mitigation In Progress
+V0162,Shanker Group,RF Optimization,West Bengal,Critical,West,0,0,2,85,0,100,No,Internal,0,0,0,0,2025-11-01,Quarterly,Under Review
+V0163,Dewan-Taneja,Network Equipment,Bihar,Low,South,0,0,0,90,2,88,Yes,Internal,0,0,0,0,2026-02-03,Monthly,Mitigation In Progress
+V0164,"Bhagat, Ray and De",IT Support,Bihar,Critical,South,1,3,3,85,2,95,Yes,Internal,0,0,0,0,2025-09-19,Annually,Open
+V0165,"Chanda, Parmar and D’Alia",Field Operations,Mumbai,Low,East,1,2,3,85,5,72,No,Internal,1,1,0,30,2026-06-20,Annually,Open
+V0166,"Palla, Grover and Dave",NOC Operations,Madhya Pradesh,Low,East,0,1,1,100,3,100,Yes,Sensitive,0,0,0,15,2026-05-07,Half-Yearly,Open
+V0167,"Mammen, Rajagopal and Soman",Network Equipment,West Bengal,High,East,3,4,3,90,2,84,No,Public,1,2,1,30,2026-06-02,Quarterly,Under Review
+V0168,Bora LLC,Data Center Services,UP West,High,West,6,15,10,60,9,57,No,Sensitive,5,3,3,180,2025-12-23,Quarterly,Closed
+V0169,Amble PLC,Tower Maintenance,Tamil Nadu,Critical,North,10,15,9,55,6,40,No,Confidential,7,3,3,150,2026-06-04,Annually,Closed
+V0170,"Prabhu, Atwal and Kant",IT Support,Assam,Low,East,9,9,8,50,5,55,No,Internal,4,3,3,90,2025-09-17,Monthly,Open
+V0171,Bedi-Deo,Cloud Services,Kerala,Medium,South,0,1,1,80,2,95,Yes,Sensitive,1,0,0,15,2026-01-28,Quarterly,Open
+V0172,Dutt-Garg,IT Support,Bihar,High,South,0,2,0,100,3,87,No,Confidential,0,0,1,15,2025-08-12,Quarterly,Open
+V0173,"Tak, Tella and Shetty",Cyber Security Services,Rajasthan,High,East,1,5,3,75,2,77,No,Confidential,1,1,0,15,2025-07-01,Monthly,Closed
+V0174,"Tiwari, Kulkarni and Parmar",Tower Maintenance,Karnataka,Critical,West,0,0,1,100,0,92,Yes,Public,0,0,1,0,2026-04-29,Monthly,Closed
+V0175,Mahajan-Uppal,Cyber Security Services,West Bengal,Critical,South,6,10,7,75,7,78,Yes,Sensitive,1,2,1,45,2026-01-01,Monthly,Under Review
+V0176,"Handa, Memon and Sangha",NOC Operations,Telangana,Low,North,4,11,7,75,5,70,Yes,Confidential,2,1,1,60,2025-12-15,Monthly,Mitigation In Progress
+V0177,Parikh-Sangha,Managed Services,Chandigarh,Low,South,3,3,6,80,1,82,No,Public,0,1,1,30,2025-07-25,Half-Yearly,Open
+V0178,Rattan-Mand,RF Optimization,Delhi,Medium,West,0,6,5,80,3,80,Yes,Confidential,0,1,0,0,2025-07-08,Monthly,Open
+V0179,Babu-Nori,NOC Operations,Rajasthan,Critical,South,5,12,7,75,3,63,No,Internal,3,1,1,45,2026-02-06,Quarterly,Under Review
+V0180,"Kapoor, Rastogi and Ratta",Fiber Operations,Karnataka,Medium,North,7,11,8,40,9,42,Yes,Internal,5,4,3,90,2025-09-27,Half-Yearly,Open
+V0181,Kunda-Swamy,RF Optimization,Andhra Pradesh,Critical,South,2,5,5,70,3,86,Yes,Internal,2,0,2,30,2025-10-07,Quarterly,Under Review
+V0182,"Kashyap, Ratta and Divan",IT Support,West Bengal,Critical,East,1,8,5,90,3,88,No,Sensitive,0,2,0,45,2026-04-30,Monthly,Under Review
+V0183,"Kothari, Vig and Saha",Network Equipment,Mohali,High,South,5,12,4,70,6,75,Yes,Confidential,2,1,1,45,2025-09-03,Half-Yearly,Under Review
+V0184,Varghese and Sons,Managed Services,UP East,Low,East,4,11,8,65,7,78,No,Internal,2,1,3,30,2026-05-11,Half-Yearly,Open
+V0185,"Kala, Babu and Dara",Field Operations,Punjab,Medium,West,0,1,2,85,0,92,Yes,Sensitive,0,0,0,0,2026-03-19,Monthly,Closed
+V0186,Kapadia Inc,RF Optimization,Punjab,High,North,0,4,1,90,2,99,Yes,Sensitive,0,0,1,0,2025-08-23,Half-Yearly,Open
+V0187,"Dua, Wali and Bandi",Fiber Operations,Telangana,High,East,0,1,1,100,1,87,Yes,Public,0,0,0,0,2025-10-05,Monthly,Closed
+V0188,"Radhakrishnan, Prakash and Nath",NOC Operations,Haryana,Critical,North,1,2,0,85,1,91,No,Internal,0,1,0,15,2025-08-23,Monthly,Closed
+V0189,"Ghose, Sengupta and Ahuja",Field Operations,Rajasthan,Medium,North,0,7,2,70,4,80,Yes,Sensitive,1,1,0,30,2025-12-30,Half-Yearly,Under Review
+V0190,Kapoor Inc,Cloud Services,Mumbai,Low,South,1,0,3,85,1,88,Yes,Sensitive,0,0,0,15,2026-04-10,Half-Yearly,Under Review
+V0191,Babu PLC,Managed Services,Mumbai,Low,North,0,2,3,80,1,82,Yes,Sensitive,0,1,0,45,2025-08-19,Annually,Mitigation In Progress
+V0192,Sampath-Dey,Tower Maintenance,Rajasthan,Critical,West,5,8,10,70,3,63,Yes,Public,2,2,3,30,2026-06-12,Monthly,Mitigation In Progress
+V0193,Deep Ltd,Data Center Services,UP East,Critical,West,0,3,0,90,0,95,Yes,Confidential,0,0,0,0,2025-09-12,Annually,Mitigation In Progress
+V0194,"Mane, Hora and Misra",Fiber Operations,Madhya Pradesh,Medium,West,4,14,5,75,7,77,Yes,Internal,2,3,2,30,2025-11-17,Monthly,Open
+V0195,"Shetty, Aggarwal and Dave",Cloud Services,Odisha,Low,West,0,1,5,90,1,95,Yes,Confidential,0,0,1,0,2026-04-22,Annually,Closed
+V0196,Natarajan and Sons,Managed Services,Odisha,Critical,South,0,1,1,100,0,89,Yes,Sensitive,0,0,0,15,2026-04-28,Monthly,Mitigation In Progress
+V0197,Goel-Muni,IT Support,Andhra Pradesh,Low,East,0,0,3,100,0,93,Yes,Sensitive,0,1,0,0,2025-11-11,Quarterly,Under Review
+V0198,Ben-Guha,Fiber Operations,Tamil Nadu,Critical,East,0,0,4,95,1,95,Yes,Sensitive,0,0,0,0,2025-11-19,Monthly,Under Review
+V0199,"Ramanathan, Dyal and Khalsa",Power Infrastructure,Gujarat,High,North,1,3,1,95,0,93,Yes,Confidential,0,0,0,15,2026-01-29,Monthly,Mitigation In Progress
+V0200,"Sanghvi, Jayaraman and Chawla",IT Support,Haryana,High,South,10,17,7,60,7,65,No,Internal,7,5,3,60,2026-05-23,Half-Yearly,Mitigation In Progress
+V0201,Agate-Tata,RF Optimization,Madhya Pradesh,Medium,North,0,0,0,100,0,93,Yes,Public,0,0,1,0,2025-08-24,Annually,Mitigation In Progress
+V0202,Prakash-Bhat,Network Equipment,Chandigarh,High,South,0,3,2,70,1,72,Yes,Confidential,0,0,1,0,2025-10-19,Annually,Under Review
+V0203,"Sinha, Walia and Taneja",Cyber Security Services,Punjab,Critical,West,1,3,5,80,2,80,No,Confidential,0,1,1,30,2025-07-14,Half-Yearly,Under Review
+V0204,Nadig LLC,Tower Maintenance,Noida,Low,North,1,5,2,80,5,74,No,Internal,1,1,2,0,2026-06-18,Monthly,Open
+V0205,Kant Inc,NOC Operations,Bihar,Low,North,0,2,5,85,1,73,Yes,Public,1,0,2,0,2025-07-07,Annually,Closed
+V0206,Manda-Comar,NOC Operations,UP West,Critical,North,0,5,3,85,0,99,Yes,Sensitive,0,0,0,0,2026-03-15,Quarterly,Mitigation In Progress
+V0207,Rege-Sagar,Cloud Services,Delhi,High,West,1,6,6,85,3,79,Yes,Confidential,1,1,2,15,2025-11-12,Annually,Open
+V0208,Varty-Date,Power Infrastructure,Noida,Critical,West,1,5,3,75,2,77,Yes,Confidential,1,0,0,15,2025-08-15,Quarterly,Open
+V0209,"Chana, Lata and Raman",IT Support,Bihar,Low,East,1,6,5,85,2,77,No,Public,0,0,0,30,2025-11-29,Annually,Closed
+V0210,Taneja Inc,Cyber Security Services,Odisha,High,North,2,4,5,85,3,78,Yes,Internal,1,2,2,30,2026-06-18,Monthly,Under Review
+V0211,"Talwar, Deo and Basu",Tower Maintenance,Mohali,Medium,East,3,6,7,60,3,73,Yes,Internal,2,1,3,45,2025-10-29,Annually,Under Review
+V0212,"Narayanan, Choudhry and Kulkarni",Network Equipment,West Bengal,High,South,0,1,0,95,3,93,Yes,Sensitive,0,0,1,0,2025-08-09,Monthly,Mitigation In Progress
+V0213,Nayar-Chanda,Cloud Services,Maharashtra,High,North,0,4,2,80,1,100,Yes,Internal,1,0,0,15,2025-12-09,Monthly,Open
+V0214,"Chauhan, Rout and Nadig",Cyber Security Services,Bihar,Low,North,10,9,9,55,9,50,No,Public,4,3,5,90,2026-04-19,Annually,Mitigation In Progress
+V0215,Nigam LLC,Managed Services,Tamil Nadu,High,West,10,14,10,55,8,48,No,Confidential,4,4,3,60,2025-07-07,Half-Yearly,Mitigation In Progress
+V0216,Lala Group,Data Center Services,Delhi,Medium,East,5,5,4,75,3,71,Yes,Confidential,4,1,1,45,2025-09-12,Half-Yearly,Open
+V0217,Kulkarni Group,Fiber Operations,Kerala,Medium,East,0,0,0,95,0,96,Yes,Public,1,0,1,0,2026-06-22,Quarterly,Mitigation In Progress
+V0218,"Pillai, Hegde and Bajaj",Managed Services,UP West,High,West,4,9,4,80,7,69,Yes,Public,2,1,2,90,2026-01-09,Annually,Under Review
+V0219,Saini-Shah,Power Infrastructure,Madhya Pradesh,High,East,1,3,4,70,1,86,Yes,Internal,0,0,0,15,2026-04-09,Annually,Open
+V0220,"Nadig, Rattan and Mohan",Data Center Services,UP West,Critical,East,0,3,6,80,2,88,No,Public,1,0,2,0,2025-11-11,Monthly,Under Review
+V0221,Chaudhuri and Sons,Cyber Security Services,Bihar,Medium,North,1,0,1,85,0,93,Yes,Sensitive,1,0,0,0,2025-08-25,Half-Yearly,Open
+V0222,"Lanka, Nadig and Sankaran",Data Center Services,Telangana,Low,North,0,3,7,80,4,84,No,Public,2,1,0,30,2026-04-14,Annually,Open
+V0223,Sarin Group,Tower Maintenance,UP East,Low,West,0,1,4,90,0,90,Yes,Sensitive,0,0,0,15,2026-02-12,Half-Yearly,Open
+V0224,Hayer and Sons,RF Optimization,Tamil Nadu,Low,East,0,0,3,85,1,89,Yes,Confidential,0,0,1,0,2026-01-13,Half-Yearly,Open
+V0225,Ravi-Rastogi,IT Support,Chandigarh,Medium,West,5,8,7,70,5,64,Yes,Sensitive,3,1,1,60,2025-12-22,Half-Yearly,Open
+V0226,"Balan, Singh and Nagy",Cyber Security Services,Haryana,Critical,East,0,0,1,90,3,97,Yes,Sensitive,0,0,0,0,2025-10-26,Half-Yearly,Open
+V0227,"Mishra, Mitra and De",Field Operations,Chandigarh,Medium,North,3,6,3,80,3,80,Yes,Sensitive,0,2,0,15,2025-10-14,Annually,Under Review
+V0228,Bora and Sons,RF Optimization,Punjab,Medium,East,0,3,0,90,0,97,Yes,Internal,1,0,0,15,2026-01-23,Half-Yearly,Closed
+V0229,"Walla, Bhasin and Agrawal",Cloud Services,Kerala,Medium,North,8,16,9,45,5,61,No,Internal,3,3,4,60,2025-12-01,Annually,Open
+V0230,Sidhu Group,IT Support,Gurugram,Critical,North,9,9,12,55,6,44,No,Public,4,3,3,180,2026-03-17,Annually,Open
+V0231,"Gandhi, Desai and Varma",Power Infrastructure,Bihar,Critical,East,10,8,6,60,9,42,No,Sensitive,5,3,3,150,2025-10-16,Monthly,Mitigation In Progress
+V0232,Chakraborty-Murty,Network Equipment,Noida,High,North,0,0,0,90,2,93,Yes,Sensitive,0,0,0,0,2025-10-27,Annually,Closed
+V0233,Mani-Amble,Managed Services,Mumbai,High,West,0,3,3,85,2,72,Yes,Public,1,0,2,0,2025-07-07,Half-Yearly,Mitigation In Progress
+V0234,Mandal Group,Cloud Services,Mohali,Low,North,0,0,1,95,1,98,Yes,Sensitive,0,0,0,0,2025-07-12,Quarterly,Mitigation In Progress
+V0235,Anand and Sons,Tower Maintenance,Assam,Low,East,3,6,9,70,5,65,Yes,Sensitive,2,1,1,45,2026-05-19,Half-Yearly,Open
+V0236,Prabhu-Pandit,Cloud Services,Madhya Pradesh,High,West,0,6,7,70,2,82,Yes,Public,1,0,1,45,2025-07-21,Half-Yearly,Under Review
+V0237,Solanki-Iyengar,IT Support,Gurugram,Critical,North,3,8,6,70,4,75,No,Internal,1,1,1,30,2025-11-08,Monthly,Under Review
+V0238,Rout-Dara,Network Equipment,Gurugram,Low,South,10,8,8,45,7,41,No,Internal,6,3,4,90,2026-06-06,Annually,Under Review
+V0239,Khatri-Kalita,RF Optimization,Karnataka,Low,West,0,1,2,90,0,87,Yes,Confidential,0,0,1,0,2026-03-09,Half-Yearly,Mitigation In Progress
+V0240,"Date, Sahota and Nagar",Cyber Security Services,Mohali,High,North,2,7,8,70,1,88,No,Public,1,0,2,0,2026-03-15,Annually,Closed
+V0241,Grewal-Bora,RF Optimization,Punjab,Medium,South,1,0,0,90,0,96,Yes,Sensitive,0,0,0,0,2026-06-03,Annually,Mitigation In Progress
+V0242,Kaur Inc,Tower Maintenance,UP East,High,West,1,5,6,90,3,85,No,Confidential,1,0,0,30,2026-02-09,Half-Yearly,Closed
+V0243,"Dixit, Shenoy and Chowdhury",Tower Maintenance,Andhra Pradesh,High,North,5,13,8,65,4,67,No,Confidential,2,1,2,30,2026-03-11,Monthly,Under Review
+V0244,Minhas-Warrior,Cloud Services,Mumbai,Critical,East,1,1,4,100,2,94,Yes,Public,0,0,0,0,2026-05-15,Quarterly,Open
+V0245,"Naik, Rege and Sarna",Tower Maintenance,Assam,Medium,West,0,0,1,90,0,94,Yes,Internal,0,0,0,0,2026-03-01,Quarterly,Closed
+V0246,Mane-Handa,Managed Services,Gujarat,Medium,South,0,0,2,90,0,97,Yes,Confidential,1,0,0,15,2025-08-17,Quarterly,Closed
+V0247,Zachariah and Sons,Tower Maintenance,UP West,Critical,South,1,4,6,85,1,74,Yes,Sensitive,2,0,1,15,2026-01-10,Half-Yearly,Mitigation In Progress
+V0248,Goel-Khatri,NOC Operations,Haryana,Medium,West,8,13,6,45,8,55,No,Internal,4,4,5,90,2025-08-31,Half-Yearly,Closed
+V0249,"Bassi, Sandhu and Naidu",Field Operations,Maharashtra,Medium,North,1,1,1,95,0,97,Yes,Internal,0,0,1,0,2025-10-30,Monthly,Under Review
+V0250,"Bhargava, Khanna and Devi",Cyber Security Services,Assam,High,East,1,5,2,85,1,88,Yes,Internal,1,0,2,0,2026-06-02,Half-Yearly,Closed
+V0251,Bobal-Chandran,Power Infrastructure,Delhi,High,North,0,0,0,95,1,99,Yes,Sensitive,0,0,0,15,2026-01-30,Annually,Open
+V0252,Lanka Group,Power Infrastructure,Odisha,Medium,West,2,2,4,75,3,72,Yes,Sensitive,1,1,0,15,2026-06-03,Half-Yearly,Closed
+V0253,Taneja-Sibal,Fiber Operations,Delhi,Low,North,9,13,7,50,9,42,No,Sensitive,5,3,5,120,2025-07-18,Monthly,Under Review
+V0254,Sami-Barad,RF Optimization,UP West,High,South,6,8,9,75,6,72,Yes,Sensitive,3,1,1,45,2025-07-14,Quarterly,Mitigation In Progress
+V0255,Bhavsar-Raghavan,Fiber Operations,UP East,Medium,North,1,0,2,90,1,95,Yes,Confidential,0,0,0,0,2026-02-27,Monthly,Closed
+V0256,Baral Group,Power Infrastructure,Mohali,Critical,South,4,7,9,70,6,78,No,Internal,3,1,3,60,2025-08-25,Quarterly,Closed
+V0257,Saran-Dara,Network Equipment,Chandigarh,Medium,South,2,4,3,70,2,86,Yes,Public,1,1,2,15,2025-11-14,Monthly,Under Review
+V0258,"Dube, Sanghvi and Choudhury",IT Support,Gurugram,Low,West,6,9,15,55,7,41,No,Public,4,5,3,150,2026-06-09,Monthly,Closed
+V0259,"Dugar, Deo and Chhabra",Cloud Services,Noida,High,East,0,5,5,80,5,88,Yes,Confidential,1,2,0,15,2025-11-02,Monthly,Open
+V0260,"Mall, Varghese and Mane",Network Equipment,UP West,High,North,9,15,9,60,8,41,No,Internal,5,3,4,90,2025-07-02,Quarterly,Open
+V0261,"Vohra, Sankaran and Warrior",Tower Maintenance,West Bengal,Low,South,10,8,9,60,10,59,No,Sensitive,3,4,5,90,2026-01-28,Quarterly,Closed
+V0262,"Gulati, Rana and Magar",Field Operations,Mohali,Low,East,8,8,6,50,6,62,No,Sensitive,5,3,4,90,2026-06-11,Monthly,Open
+V0263,Kale and Sons,Cloud Services,Punjab,Critical,West,8,18,8,55,6,57,No,Public,3,3,3,120,2026-04-13,Annually,Open
+V0264,Raman Inc,IT Support,Noida,Low,West,1,3,8,85,5,76,No,Sensitive,0,1,2,30,2025-12-24,Annually,Under Review
+V0265,Nanda-Doshi,Tower Maintenance,Odisha,Low,East,3,5,4,60,5,64,Yes,Confidential,4,2,1,45,2026-06-22,Quarterly,Under Review
+V0266,"Jaggi, Badami and Om",Power Infrastructure,Tamil Nadu,Critical,East,1,1,1,100,0,96,Yes,Confidential,0,0,0,0,2025-12-21,Half-Yearly,Open
+V0267,Swamy-Ratta,RF Optimization,Chandigarh,Low,South,1,5,3,90,2,93,Yes,Internal,0,0,0,15,2026-05-12,Annually,Mitigation In Progress
+V0268,Sharaf-Sodhi,NOC Operations,Maharashtra,Low,South,7,10,6,65,10,58,No,Confidential,3,3,5,60,2026-06-20,Quarterly,Closed
+V0269,Raghavan-Sane,Fiber Operations,Rajasthan,Critical,North,1,3,6,75,2,76,Yes,Public,2,1,0,0,2025-10-02,Monthly,Under Review
+V0270,Subramanian Group,Field Operations,Mohali,Medium,North,1,7,7,70,3,76,Yes,Internal,0,1,1,15,2026-06-04,Half-Yearly,Closed
+V0271,"Dey, Mann and Dhillon",Data Center Services,Mohali,Critical,North,3,7,9,65,4,61,No,Confidential,2,1,3,90,2025-10-19,Half-Yearly,Under Review
+V0272,"Bajaj, Dugar and Bajaj",Network Equipment,Chandigarh,Critical,South,6,6,11,70,6,71,No,Confidential,3,1,3,90,2025-11-30,Quarterly,Mitigation In Progress
+V0273,"Prasad, Manne and Hayer",RF Optimization,Chandigarh,Medium,West,2,2,2,90,2,82,Yes,Public,0,1,0,15,2025-07-28,Half-Yearly,Mitigation In Progress
+V0274,Borde-Ravel,Fiber Operations,Gurugram,Critical,North,1,0,5,95,3,97,Yes,Internal,1,0,0,0,2026-02-08,Half-Yearly,Open
+V0275,"Koshy, Mand and Vig",Network Equipment,Tamil Nadu,Low,South,0,3,3,75,3,84,Yes,Public,1,0,0,0,2026-01-07,Quarterly,Closed
+V0276,Chawla-Dayal,IT Support,UP East,Low,East,7,20,7,50,9,51,No,Confidential,3,3,3,90,2025-12-10,Quarterly,Under Review
+V0277,"Mutti, Mandal and Nigam",RF Optimization,Rajasthan,Low,West,4,8,4,65,6,74,No,Confidential,2,1,1,90,2026-06-20,Monthly,Mitigation In Progress
+V0278,"Chaudhuri, Toor and Arya",Power Infrastructure,Telangana,Medium,South,0,1,0,100,0,97,Yes,Public,0,0,1,15,2026-05-23,Half-Yearly,Open
+V0279,Mittal-Bhandari,Fiber Operations,Madhya Pradesh,Low,West,8,8,16,50,6,57,No,Internal,4,3,4,180,2025-11-19,Quarterly,Open
+V0280,"Apte, Bumb and Lal",Fiber Operations,Mohali,Low,East,7,8,11,55,7,58,No,Confidential,3,5,5,60,2026-04-09,Half-Yearly,Open
+V0281,"Borra, Bhakta and Shukla",Data Center Services,Noida,Low,East,3,12,7,75,3,72,Yes,Sensitive,2,2,1,60,2025-12-18,Monthly,Under Review
+V0282,Narasimhan-Bassi,Power Infrastructure,Kerala,High,North,3,10,4,65,6,67,Yes,Confidential,4,2,1,45,2025-09-11,Annually,Under Review
+V0283,Dave-Shah,IT Support,UP East,Medium,South,0,0,4,95,0,95,Yes,Public,0,0,1,15,2025-11-14,Half-Yearly,Under Review
+V0284,Mitter-Doctor,Data Center Services,Andhra Pradesh,Medium,North,0,1,0,90,0,99,Yes,Internal,0,1,1,15,2026-03-10,Monthly,Under Review
+V0285,Kamdar Group,Fiber Operations,Assam,Medium,West,5,9,7,75,3,71,No,Sensitive,1,3,3,30,2026-01-15,Quarterly,Open
+V0286,Sanghvi and Sons,IT Support,Bihar,High,West,1,0,2,85,0,89,Yes,Sensitive,0,0,0,15,2026-03-18,Half-Yearly,Open
+V0287,Bobal Group,RF Optimization,Andhra Pradesh,Medium,East,0,2,1,100,0,96,Yes,Confidential,1,0,0,0,2026-03-02,Monthly,Mitigation In Progress
+V0288,"Sinha, Prabhu and Bail",Network Equipment,UP East,High,South,9,15,13,65,8,56,Yes,Internal,7,3,5,60,2025-09-13,Annually,Mitigation In Progress
+V0289,Baria Group,Network Equipment,Noida,Medium,East,4,9,11,65,6,78,No,Internal,2,2,2,45,2026-06-02,Monthly,Under Review
+V0290,Sen-Soman,Cloud Services,Mohali,Low,North,10,9,7,55,8,63,No,Public,6,3,5,150,2026-06-21,Quarterly,Mitigation In Progress
+V0291,Choudhury Inc,Data Center Services,Tamil Nadu,Critical,East,2,4,4,70,4,76,No,Sensitive,1,0,0,45,2026-02-04,Annually,Closed
+V0292,Choudhry and Sons,Power Infrastructure,Odisha,High,North,0,1,2,85,1,99,Yes,Public,0,0,1,15,2025-07-11,Half-Yearly,Closed
+V0293,Soni-Agarwal,IT Support,Telangana,Medium,South,0,3,1,95,1,97,Yes,Internal,0,0,0,0,2026-05-09,Half-Yearly,Closed
+V0294,"Barad, Nath and Desai",Field Operations,Punjab,Critical,West,0,2,0,95,0,99,Yes,Sensitive,0,0,0,0,2026-04-02,Monthly,Closed
+V0295,"Gokhale, Bahl and Brahmbhatt",Field Operations,Tamil Nadu,Low,West,0,5,4,95,3,90,Yes,Sensitive,1,0,0,0,2026-05-05,Annually,Closed
+V0296,Viswanathan Group,RF Optimization,Tamil Nadu,High,South,0,0,1,85,1,99,Yes,Internal,0,0,0,0,2025-08-07,Annually,Under Review
+V0297,Divan-Nigam,RF Optimization,Haryana,Low,West,8,11,10,55,9,56,Yes,Internal,7,3,3,180,2026-01-22,Half-Yearly,Mitigation In Progress
+V0298,Nayak LLC,Cloud Services,UP East,Critical,South,0,5,6,75,1,86,Yes,Confidential,1,0,0,30,2026-02-21,Half-Yearly,Closed
+V0299,"Sengupta, Raja and Srinivasan",Data Center Services,Rajasthan,Critical,East,0,1,0,85,0,85,Yes,Internal,0,1,0,0,2026-03-24,Quarterly,Open
+V0300,Venkataraman-Bhatt,Cyber Security Services,Odisha,Medium,South,3,8,6,65,5,75,No,Internal,1,2,2,60,2025-11-25,Monthly,Open
+V0301,Raja-Ahluwalia,NOC Operations,Noida,Critical,West,6,11,6,70,4,74,No,Public,4,3,1,90,2026-01-12,Monthly,Closed
+V0302,Memon-Gara,Network Equipment,Gujarat,Low,South,0,1,1,80,0,86,Yes,Confidential,0,1,0,0,2026-02-22,Annually,Closed
+V0303,Rama-Rau,Tower Maintenance,Karnataka,Low,South,0,4,3,90,3,91,Yes,Confidential,0,0,0,0,2025-09-24,Annually,Under Review
+V0304,Naik-Radhakrishnan,Network Equipment,Mumbai,High,East,3,3,4,80,3,84,No,Confidential,0,0,0,15,2025-10-13,Monthly,Open
+V0305,Babu-Dave,IT Support,Mumbai,High,South,5,9,7,65,7,72,Yes,Confidential,2,1,2,90,2026-05-17,Annually,Mitigation In Progress
+V0306,Ghosh Group,Cloud Services,Haryana,Low,South,1,5,2,85,0,88,Yes,Public,0,0,0,0,2025-09-30,Quarterly,Closed
+V0307,"Chanda, Lalla and Viswanathan",Power Infrastructure,Delhi,Critical,South,4,9,4,75,4,62,No,Internal,1,3,1,45,2025-12-08,Annually,Open
+V0308,Prasad Inc,Power Infrastructure,West Bengal,High,East,0,4,3,80,1,79,Yes,Internal,0,1,0,30,2025-08-24,Annually,Closed
+V0309,Chand-Gola,Fiber Operations,Bihar,Critical,North,1,3,7,85,3,86,Yes,Confidential,1,0,2,15,2025-10-27,Annually,Closed
+V0310,Rajagopalan-Batra,Power Infrastructure,Tamil Nadu,High,East,0,0,0,95,1,92,Yes,Confidential,0,0,0,0,2026-04-15,Monthly,Under Review
+V0311,Kumar-Nair,Tower Maintenance,Odisha,High,West,1,4,2,75,2,73,No,Public,0,1,0,30,2026-01-30,Half-Yearly,Open
+V0312,"Dutt, Varughese and Sehgal",NOC Operations,Mumbai,High,South,0,5,1,95,0,89,Yes,Sensitive,0,0,0,15,2026-05-13,Quarterly,Closed
+V0313,Tailor LLC,Cloud Services,Delhi,Medium,North,0,2,0,90,1,88,Yes,Internal,0,0,0,0,2025-10-13,Half-Yearly,Under Review
+V0314,Balakrishnan-Khanna,Power Infrastructure,Chandigarh,Low,North,0,0,1,90,2,91,Yes,Sensitive,0,0,0,15,2025-12-27,Quarterly,Open
+V0315,Dar-Choudhary,Cloud Services,Chandigarh,Low,South,8,10,7,55,8,53,No,Public,5,3,5,60,2025-12-31,Annually,Under Review
+V0316,"Sagar, Pal and Chowdhury",RF Optimization,Maharashtra,High,South,0,2,3,75,2,84,Yes,Internal,2,1,0,15,2025-07-30,Quarterly,Mitigation In Progress
+V0317,Ray-Sheth,Data Center Services,Noida,Medium,East,6,8,4,65,5,64,Yes,Public,4,2,3,60,2025-08-31,Quarterly,Under Review
+V0318,Lalla-Vala,Power Infrastructure,Tamil Nadu,High,East,9,10,17,65,8,61,No,Internal,6,4,3,120,2026-03-15,Quarterly,Mitigation In Progress
+V0319,Saraf Group,IT Support,Noida,Low,South,0,0,5,85,0,96,Yes,Public,1,0,0,15,2025-08-16,Annually,Closed
+V0320,"Bhakta, Deo and Biswas",RF Optimization,Mohali,Critical,North,1,8,4,85,3,75,Yes,Public,0,0,2,0,2025-12-26,Half-Yearly,Closed
+V0321,"Singh, Shanker and Hayre",Power Infrastructure,Gujarat,High,East,5,5,5,70,5,75,Yes,Sensitive,2,2,3,90,2026-05-28,Quarterly,Closed
+V0322,"Comar, Peri and Kota",Cloud Services,Telangana,Medium,East,0,1,0,95,2,92,Yes,Internal,1,0,0,0,2026-05-08,Quarterly,Closed
+V0323,Varughese-Chauhan,Fiber Operations,Telangana,Medium,North,2,3,5,70,2,72,Yes,Internal,1,1,2,15,2025-09-20,Half-Yearly,Mitigation In Progress
+V0324,"Choudhry, Palan and Thaman",Tower Maintenance,Telangana,Medium,South,2,3,2,80,4,88,Yes,Confidential,1,1,0,0,2026-03-05,Monthly,Under Review
+V0325,Aggarwal LLC,Cyber Security Services,Madhya Pradesh,High,North,0,1,2,90,2,98,Yes,Sensitive,0,0,1,0,2025-08-04,Half-Yearly,Open
+V0326,Talwar-Srinivasan,IT Support,Delhi,High,West,1,8,5,80,2,76,No,Public,2,0,2,30,2025-07-23,Annually,Open
+V0327,Bakshi PLC,Network Equipment,Telangana,Low,North,5,14,7,65,3,71,Yes,Sensitive,2,2,2,45,2025-07-17,Half-Yearly,Mitigation In Progress
+V0328,"Ramakrishnan, Vaidya and Mangat",IT Support,Mumbai,Medium,West,0,6,2,85,1,86,Yes,Internal,1,1,1,0,2026-01-25,Quarterly,Under Review
+V0329,Iyengar Group,Power Infrastructure,Kerala,Medium,North,0,4,0,90,0,97,Yes,Internal,0,0,0,0,2025-09-26,Monthly,Mitigation In Progress
+V0330,Suresh Inc,Fiber Operations,Gurugram,Critical,South,1,5,2,80,2,77,Yes,Confidential,2,0,0,15,2026-01-26,Half-Yearly,Open
+V0331,Kala-Iyengar,Managed Services,Gurugram,Critical,South,0,3,5,85,2,79,Yes,Sensitive,1,1,0,15,2025-10-09,Monthly,Open
+V0332,Som-Mani,Tower Maintenance,Punjab,Low,East,9,14,12,45,7,53,Yes,Confidential,6,5,4,150,2025-12-02,Half-Yearly,Under Review
+V0333,"Parmer, Din and Bhakta",Managed Services,UP West,Critical,West,3,9,3,75,1,77,No,Internal,2,0,1,0,2026-02-02,Quarterly,Closed
+V0334,"Bali, Luthra and Sule",Tower Maintenance,Punjab,Critical,East,7,10,9,65,7,48,No,Sensitive,4,3,5,90,2026-03-25,Annually,Mitigation In Progress
+V0335,Mitra-Sankar,Power Infrastructure,Tamil Nadu,Critical,South,3,5,4,65,5,70,Yes,Public,2,3,1,45,2026-06-14,Annually,Under Review
+V0336,Rajagopalan PLC,Power Infrastructure,Maharashtra,High,East,9,9,6,50,10,45,No,Internal,5,4,4,150,2026-05-02,Quarterly,Mitigation In Progress
+V0337,Tata-Sinha,Tower Maintenance,UP West,Critical,North,3,8,9,70,3,69,Yes,Confidential,2,2,1,45,2025-08-11,Monthly,Closed
+V0338,Edwin PLC,Power Infrastructure,Chandigarh,Low,North,0,1,0,90,2,99,Yes,Sensitive,0,0,0,0,2025-08-14,Monthly,Under Review
+V0339,Sarin-Bera,Cloud Services,Madhya Pradesh,Medium,West,1,4,5,80,2,76,Yes,Internal,2,2,0,15,2026-03-20,Quarterly,Open
+V0340,"Mammen, Ganguly and Om",Managed Services,Tamil Nadu,Critical,East,3,8,9,65,3,71,No,Public,1,1,2,60,2026-03-04,Half-Yearly,Closed
+V0341,Som LLC,Network Equipment,Punjab,High,East,1,2,3,80,2,76,Yes,Internal,0,1,0,15,2026-05-08,Annually,Mitigation In Progress
+V0342,Mutti-Konda,Field Operations,Bihar,Low,South,0,2,4,70,3,86,Yes,Internal,1,1,1,0,2025-12-21,Quarterly,Open
+V0343,Datta-Nazareth,Tower Maintenance,Delhi,Medium,South,0,3,1,85,1,85,Yes,Sensitive,0,0,0,0,2025-08-06,Quarterly,Mitigation In Progress
+V0344,Kata-Tata,Data Center Services,Punjab,Medium,South,4,12,6,60,3,75,No,Confidential,1,2,1,30,2026-01-16,Monthly,Mitigation In Progress
+V0345,"Mittal, Natt and Sarma",NOC Operations,Telangana,Low,North,0,2,3,85,0,100,No,Sensitive,0,0,0,15,2026-06-17,Annually,Closed
+V0346,Hayer-Sur,Cloud Services,Mumbai,High,West,0,2,1,85,1,93,Yes,Confidential,0,0,1,0,2025-09-19,Annually,Open
+V0347,"Lalla, Chaudhuri and Dhar",IT Support,Bihar,High,East,0,2,2,85,0,85,Yes,Sensitive,1,0,0,0,2025-07-28,Half-Yearly,Under Review
+V0348,Madan-Sachar,Field Operations,Gujarat,Critical,East,1,2,4,75,1,86,Yes,Public,2,0,0,0,2026-01-16,Quarterly,Closed
+V0349,Vaidya-Choudhry,NOC Operations,Odisha,High,West,10,8,12,45,10,52,Yes,Internal,4,3,4,180,2026-03-27,Half-Yearly,Open
+V0350,Shenoy-Kapoor,Data Center Services,West Bengal,Medium,North,0,1,2,100,3,98,Yes,Sensitive,0,0,0,0,2026-03-26,Quarterly,Closed
+V0351,Verma-Kala,NOC Operations,Gujarat,Low,East,0,0,1,100,1,99,Yes,Confidential,0,0,0,15,2026-05-19,Quarterly,Open
+V0352,"Chand, Dara and Savant",IT Support,Mohali,Critical,North,0,7,4,85,4,86,Yes,Sensitive,2,0,2,15,2025-11-16,Annually,Under Review
+V0353,Sandhu-Sridhar,Fiber Operations,Delhi,Critical,East,8,15,9,65,9,48,No,Internal,4,3,3,180,2026-01-04,Annually,Under Review
+V0354,Dutta-Sahota,Cyber Security Services,Kerala,Critical,South,0,0,2,85,0,95,Yes,Public,0,0,0,0,2025-11-13,Annually,Mitigation In Progress
+V0355,Gupta PLC,Managed Services,Assam,Critical,East,1,1,2,95,0,85,Yes,Internal,0,0,0,0,2025-12-01,Half-Yearly,Under Review
+V0356,"Shere, Contractor and Char",RF Optimization,Punjab,Critical,East,0,2,5,85,2,84,Yes,Sensitive,2,1,2,0,2025-08-01,Annually,Mitigation In Progress
+V0357,Raman Inc,Data Center Services,Noida,Medium,West,10,9,6,55,7,43,Yes,Public,5,4,4,150,2025-09-26,Monthly,Closed
+V0358,Kalla-Nori,Power Infrastructure,Noida,Critical,South,1,0,1,85,0,93,Yes,Public,1,0,0,0,2025-10-02,Annually,Open
+V0359,"Raj, Karpe and Varty",Cloud Services,Delhi,Medium,East,0,0,0,95,0,85,Yes,Public,0,0,0,0,2025-12-21,Annually,Under Review
+V0360,Kala-Pai,Network Equipment,Mohali,Medium,East,0,0,0,100,0,93,Yes,Internal,0,0,1,0,2025-07-06,Quarterly,Under Review
+V0361,"Dhillon, Chaudhry and Dutta",Power Infrastructure,Odisha,Medium,East,0,1,2,90,2,99,Yes,Sensitive,0,1,0,0,2026-05-13,Monthly,Under Review
+V0362,"Rajan, Sandhu and Walla",Fiber Operations,Gurugram,High,West,1,3,2,80,4,88,Yes,Internal,1,0,1,15,2025-08-29,Monthly,Mitigation In Progress
+V0363,Palan-Ghosh,Cyber Security Services,Kerala,High,West,3,8,9,75,5,73,Yes,Confidential,2,2,1,30,2025-09-17,Monthly,Under Review
+V0364,Nair-Krish,Cloud Services,Delhi,High,South,4,9,9,60,5,62,Yes,Sensitive,2,3,1,30,2026-06-22,Half-Yearly,Mitigation In Progress
+V0365,Kapadia-Hayer,Network Equipment,Andhra Pradesh,High,West,0,2,2,75,1,81,Yes,Internal,0,0,1,15,2026-01-20,Half-Yearly,Mitigation In Progress
+V0366,Butala PLC,Fiber Operations,Gurugram,Critical,South,4,5,8,70,3,73,Yes,Sensitive,2,3,1,60,2026-06-18,Monthly,Mitigation In Progress
+V0367,Apte PLC,Tower Maintenance,Tamil Nadu,Low,South,4,7,4,75,4,62,No,Sensitive,3,1,3,45,2026-01-22,Monthly,Under Review
+V0368,"Mane, Rege and Bajwa",Network Equipment,Madhya Pradesh,Critical,South,0,2,1,95,2,85,Yes,Internal,0,0,0,0,2025-08-06,Monthly,Mitigation In Progress
+V0369,Mannan-Vora,Managed Services,Bihar,Medium,East,0,0,1,100,0,87,No,Confidential,1,0,0,0,2026-01-28,Quarterly,Under Review
+V0370,Sule-Dyal,Field Operations,Tamil Nadu,High,East,0,0,3,80,0,95,Yes,Public,0,0,0,0,2025-11-05,Half-Yearly,Closed
+V0371,"Varty, Chander and Bhavsar",Cyber Security Services,Odisha,High,South,5,13,4,70,4,62,No,Public,3,1,1,45,2026-02-28,Monthly,Open
+V0372,Gopal-Ravel,RF Optimization,Kerala,Low,West,6,14,8,40,7,49,No,Public,3,4,3,120,2026-03-19,Monthly,Open
+V0373,Sachar-Chana,Field Operations,UP East,High,North,2,4,6,80,2,84,Yes,Public,1,0,0,0,2026-03-07,Annually,Closed
+V0374,"Uppal, Chanda and Sen",Data Center Services,Telangana,Critical,East,7,13,6,50,10,54,Yes,Internal,7,3,3,90,2026-01-12,Half-Yearly,Open
+V0375,Dyal and Sons,Power Infrastructure,Odisha,Medium,North,3,14,7,75,6,64,No,Sensitive,4,3,3,60,2025-12-08,Monthly,Closed
+V0376,Mitter LLC,Cyber Security Services,UP West,Medium,South,1,6,6,90,4,78,Yes,Sensitive,0,0,2,30,2026-05-12,Monthly,Open
+V0377,"Sehgal, Kapoor and Banik",Managed Services,Bihar,Critical,East,0,5,3,85,3,85,Yes,Public,0,0,0,0,2026-01-07,Quarterly,Closed
+V0378,Buch Inc,Network Equipment,Mohali,Low,East,1,5,6,70,1,85,No,Sensitive,0,0,1,0,2025-08-17,Quarterly,Under Review
+V0379,Nadig Group,Managed Services,Mumbai,Critical,North,2,5,5,80,1,84,Yes,Internal,1,1,2,15,2025-08-14,Half-Yearly,Open
+V0380,Manne Group,Cyber Security Services,Assam,High,North,0,2,5,95,3,99,No,Confidential,0,0,0,15,2026-03-06,Quarterly,Open
+V0381,Walia-Ghosh,Field Operations,UP West,Medium,West,5,9,6,70,7,76,No,Internal,3,3,3,90,2026-04-03,Quarterly,Open
+V0382,"Sandhu, Sarin and Mangal",RF Optimization,West Bengal,Critical,North,1,1,4,85,1,88,Yes,Public,0,0,1,15,2025-10-08,Annually,Closed
+V0383,Raj and Sons,Fiber Operations,Gurugram,Medium,North,1,6,3,85,1,76,Yes,Sensitive,2,1,1,30,2025-10-12,Annually,Under Review
+V0384,Dash and Sons,RF Optimization,Noida,Critical,North,8,15,11,65,5,61,Yes,Confidential,3,3,5,180,2026-01-12,Half-Yearly,Under Review
+V0385,Bhandari Ltd,Cyber Security Services,Tamil Nadu,Medium,North,2,3,4,80,2,87,No,Public,1,2,1,30,2026-06-13,Quarterly,Under Review
+V0386,"Bali, Raj and Manne",NOC Operations,UP West,Critical,South,3,3,2,80,2,87,Yes,Internal,0,2,0,15,2025-07-17,Annually,Closed
+V0387,"Hayer, Mander and Malhotra",IT Support,Punjab,Medium,West,3,6,6,80,5,62,No,Sensitive,2,2,1,45,2025-11-21,Half-Yearly,Under Review
+V0388,"Thakkar, Manne and Hora",Tower Maintenance,Madhya Pradesh,Medium,South,1,4,7,75,1,84,Yes,Internal,1,1,0,30,2025-12-05,Monthly,Mitigation In Progress
+V0389,Dhillon-Krishnan,Managed Services,Assam,Medium,West,4,6,4,80,6,76,Yes,Confidential,2,3,1,60,2025-12-11,Annually,Under Review
+V0390,Kapadia LLC,Network Equipment,Karnataka,High,East,4,7,9,75,6,66,Yes,Internal,1,2,1,60,2026-01-28,Quarterly,Under Review
+V0391,"Andra, Kari and Kamdar",Cyber Security Services,Telangana,Low,North,1,4,7,85,2,80,Yes,Confidential,1,1,1,15,2026-03-10,Annually,Mitigation In Progress
+V0392,Behl-Varghese,Tower Maintenance,Maharashtra,Medium,North,4,9,9,75,4,77,No,Confidential,3,2,1,30,2026-04-03,Half-Yearly,Closed
+V0393,"Ghosh, Bhargava and Lal",Power Infrastructure,Karnataka,Critical,East,4,6,9,80,5,66,No,Confidential,4,2,3,30,2025-10-24,Quarterly,Closed
+V0394,Mukhopadhyay-Master,Field Operations,Maharashtra,Medium,East,1,7,5,85,2,76,Yes,Public,1,0,0,0,2026-04-11,Monthly,Under Review
+V0395,"Nagy, Hayer and Balan",Fiber Operations,Andhra Pradesh,Low,North,0,0,3,100,0,88,Yes,Sensitive,0,0,0,0,2025-10-31,Quarterly,Under Review
+V0396,"Batta, Chahal and Savant",RF Optimization,Kerala,Low,East,0,3,4,80,1,86,Yes,Sensitive,1,0,1,45,2025-09-07,Monthly,Mitigation In Progress
+V0397,Kalita Ltd,Network Equipment,Andhra Pradesh,Low,East,1,0,1,85,1,98,Yes,Confidential,0,0,0,0,2025-09-09,Half-Yearly,Mitigation In Progress
+V0398,"Dalal, Majumdar and Khosla",Data Center Services,Rajasthan,Low,West,0,1,0,90,1,99,Yes,Confidential,0,0,0,0,2025-09-29,Monthly,Mitigation In Progress
+V0399,Chandra and Sons,NOC Operations,Haryana,Low,East,1,2,3,85,1,81,Yes,Confidential,1,0,2,15,2025-06-24,Annually,Closed
+V0400,Bera-Badal,Field Operations,Assam,Medium,North,1,4,0,95,3,85,Yes,Internal,0,0,0,0,2025-07-17,Half-Yearly,Mitigation In Progress
+V0401,"Thaker, Ravi and Padmanabhan",Fiber Operations,Andhra Pradesh,Critical,North,1,5,5,85,5,88,Yes,Sensitive,1,0,1,15,2026-02-12,Annually,Under Review
+V0402,"Arora, Muni and Deshmukh",Data Center Services,Bihar,Critical,East,5,13,5,60,6,78,Yes,Public,1,1,1,30,2026-06-04,Monthly,Closed
+V0403,Dara-Lad,Power Infrastructure,Mohali,Medium,South,1,4,7,75,4,77,Yes,Sensitive,2,2,1,0,2025-10-15,Quarterly,Closed
+V0404,"Yadav, Chacko and Gopal",Cloud Services,Delhi,Critical,West,0,2,2,90,3,86,Yes,Sensitive,2,2,1,15,2026-05-30,Half-Yearly,Closed
+V0405,Misra Ltd,Network Equipment,Delhi,Low,North,0,3,1,85,2,87,Yes,Internal,1,0,0,15,2025-07-22,Half-Yearly,Closed
+V0406,Jani LLC,Power Infrastructure,Karnataka,Medium,South,2,2,7,85,3,82,Yes,Sensitive,0,1,1,30,2025-10-15,Monthly,Under Review
+V0407,Gupta Inc,Cyber Security Services,Rajasthan,Critical,North,0,4,2,80,1,81,No,Public,1,0,2,15,2025-12-07,Half-Yearly,Under Review
+V0408,Mangat Ltd,Data Center Services,Bihar,Low,West,0,4,0,85,1,93,Yes,Public,1,1,0,15,2025-08-14,Quarterly,Under Review
+V0409,Ganguly and Sons,Cloud Services,Telangana,Low,South,5,10,5,60,5,67,Yes,Sensitive,1,1,2,30,2025-08-17,Monthly,Closed
+V0410,Kapoor and Sons,Managed Services,Mohali,Medium,East,9,11,11,50,5,43,No,Internal,3,3,4,90,2025-11-09,Half-Yearly,Under Review
+V0411,Hora and Sons,NOC Operations,Bihar,Medium,East,6,9,4,65,3,67,Yes,Sensitive,4,2,1,30,2026-02-28,Half-Yearly,Under Review
+V0412,"Sankaran, Rao and Mammen",Data Center Services,Kerala,Medium,East,3,2,7,80,2,76,Yes,Confidential,1,0,0,15,2026-06-09,Monthly,Mitigation In Progress
+V0413,"Anand, Mand and Lata",Network Equipment,Punjab,High,South,3,2,5,80,1,78,Yes,Confidential,2,0,0,15,2026-01-02,Annually,Under Review
+V0414,Bhatt Inc,Fiber Operations,UP West,Critical,West,0,2,0,100,0,90,Yes,Confidential,1,0,0,0,2025-10-06,Monthly,Closed
+V0415,Sharaf-Trivedi,Cyber Security Services,Rajasthan,High,West,0,1,0,90,1,98,No,Internal,0,0,0,0,2025-11-03,Quarterly,Open
+V0416,Gandhi-Rau,Cyber Security Services,Punjab,Low,North,1,4,5,85,1,73,No,Public,2,1,0,15,2025-10-20,Half-Yearly,Mitigation In Progress
+V0417,Dixit and Sons,Cloud Services,Madhya Pradesh,Medium,East,6,12,6,75,5,67,Yes,Confidential,1,1,2,30,2025-09-26,Annually,Under Review
+V0418,"Anand, Parsa and Menon",Network Equipment,Bihar,Low,East,0,0,5,90,1,89,Yes,Internal,0,0,0,0,2025-07-07,Monthly,Closed
+V0419,"Sami, Garde and Ray",Data Center Services,Noida,Low,North,1,2,8,80,4,74,Yes,Public,1,2,2,30,2026-04-10,Half-Yearly,Mitigation In Progress
+V0420,Sanghvi Group,NOC Operations,Rajasthan,Critical,South,8,14,10,45,9,48,No,Internal,5,3,5,90,2025-11-22,Monthly,Closed
+V0421,Zacharia Group,Fiber Operations,Noida,High,East,3,6,4,70,3,67,No,Sensitive,4,1,1,45,2026-05-16,Annually,Mitigation In Progress
+V0422,"Aggarwal, Konda and Agrawal",Cloud Services,Haryana,High,East,0,1,2,90,3,92,Yes,Public,0,1,1,0,2026-05-13,Annually,Closed
+V0423,"Balasubramanian, Kaur and Thaker",Data Center Services,Andhra Pradesh,High,West,0,1,0,85,0,100,Yes,Confidential,0,0,0,0,2025-10-01,Annually,Mitigation In Progress
+V0424,Shukla-Uppal,NOC Operations,Assam,Low,West,1,2,3,75,1,86,Yes,Sensitive,1,0,0,45,2026-01-19,Monthly,Mitigation In Progress
+V0425,"Nayak, Bahri and Konda",Managed Services,Haryana,Critical,South,1,9,2,70,2,83,Yes,Sensitive,1,0,2,0,2025-09-15,Quarterly,Under Review
+V0426,"Sane, Sagar and Samra",Cloud Services,Maharashtra,Medium,West,0,6,7,85,3,86,Yes,Public,1,1,0,0,2025-08-22,Half-Yearly,Mitigation In Progress
+V0427,Baria Ltd,Tower Maintenance,Punjab,Medium,North,2,4,2,80,1,75,Yes,Internal,2,2,0,0,2026-01-08,Annually,Under Review
+V0428,Kala-Mallick,IT Support,UP West,Medium,West,0,2,0,100,0,94,Yes,Public,1,0,1,0,2025-08-24,Half-Yearly,Under Review
+V0429,Sawhney-Grover,NOC Operations,Telangana,High,South,3,5,3,70,1,78,Yes,Public,0,0,0,15,2025-12-20,Annually,Mitigation In Progress
+V0430,Balakrishnan-Deshpande,NOC Operations,Kerala,High,South,1,1,4,80,1,93,Yes,Sensitive,0,0,0,0,2025-08-09,Monthly,Under Review
+V0431,"Chokshi, Raju and Aurora",Cyber Security Services,Madhya Pradesh,Medium,South,5,6,8,60,4,70,No,Confidential,2,2,2,60,2025-12-28,Quarterly,Open
+V0432,Raval PLC,Cloud Services,Mumbai,Low,West,1,4,6,80,3,82,Yes,Internal,1,0,1,30,2025-08-14,Quarterly,Under Review
+V0433,Khurana PLC,Managed Services,Gurugram,Critical,East,2,6,3,80,5,72,Yes,Sensitive,0,0,0,15,2026-04-17,Monthly,Open
+V0434,Krish-Sarma,Data Center Services,Telangana,Medium,West,6,9,10,75,5,70,Yes,Internal,3,1,2,30,2025-12-28,Quarterly,Closed
+V0435,Bala Ltd,Field Operations,Odisha,High,West,0,4,2,85,2,95,Yes,Internal,0,1,0,0,2025-08-25,Half-Yearly,Mitigation In Progress
+V0436,Palla-Puri,IT Support,Punjab,Critical,West,0,0,1,100,0,97,Yes,Public,1,0,0,15,2026-06-14,Annually,Open
+V0437,"Sahota, Shetty and Tandon",Cloud Services,Bihar,Low,West,0,2,2,80,3,83,No,Sensitive,2,0,1,30,2025-10-09,Quarterly,Mitigation In Progress
+V0438,Lanka Group,Cloud Services,Mumbai,Critical,North,1,5,4,85,4,79,No,Sensitive,2,1,1,45,2025-12-16,Monthly,Under Review
+V0439,"Sem, Bose and Chauhan",Fiber Operations,Delhi,Critical,East,0,6,3,70,1,86,Yes,Sensitive,1,1,0,30,2026-02-11,Monthly,Mitigation In Progress
+V0440,"Majumdar, Kota and Srivastava",Managed Services,Andhra Pradesh,Critical,West,2,3,5,75,1,81,Yes,Internal,1,2,1,0,2026-06-14,Monthly,Under Review
+V0441,Modi PLC,NOC Operations,Karnataka,Medium,South,0,0,2,85,0,91,Yes,Sensitive,0,0,1,0,2025-12-13,Monthly,Mitigation In Progress
+V0442,Chada-Buch,Network Equipment,Karnataka,Critical,South,6,9,7,80,5,61,Yes,Confidential,1,2,3,30,2025-11-10,Quarterly,Closed
+V0443,"Saraf, Hari and Chand",Cyber Security Services,Rajasthan,Critical,East,0,2,1,85,0,91,No,Public,0,0,0,0,2026-04-15,Annually,Closed
+V0444,"Sama, Mukherjee and Mukherjee",Fiber Operations,Mohali,High,South,3,7,8,70,3,68,Yes,Public,3,3,3,30,2025-10-21,Half-Yearly,Under Review
+V0445,Doctor-Sem,Managed Services,UP East,Critical,East,0,9,7,75,3,79,Yes,Confidential,1,0,1,30,2025-10-28,Half-Yearly,Under Review
+V0446,"Manda, Majumdar and Walia",Cloud Services,Gurugram,Medium,West,5,10,11,75,4,70,No,Confidential,3,1,2,60,2026-03-09,Annually,Under Review
+V0447,Shenoy-Din,Field Operations,Bihar,High,West,5,10,9,65,5,76,Yes,Confidential,1,2,1,60,2025-09-28,Half-Yearly,Closed
+V0448,Sarraf-Oak,Data Center Services,Mohali,High,West,0,1,4,90,0,88,Yes,Sensitive,0,0,0,0,2026-02-10,Annually,Mitigation In Progress
+V0449,Bawa-De,Network Equipment,Assam,Low,West,1,3,0,90,3,89,Yes,Public,1,1,0,0,2025-09-19,Quarterly,Open
+V0450,Rana Group,Managed Services,Punjab,Critical,South,0,2,2,70,4,84,Yes,Confidential,0,1,0,45,2025-11-22,Monthly,Closed
+V0451,Taneja Ltd,Power Infrastructure,Noida,Medium,South,1,2,2,75,2,72,Yes,Internal,0,0,0,30,2026-04-25,Quarterly,Open
+V0452,Sandal Group,Field Operations,Rajasthan,Medium,East,0,1,0,100,1,88,Yes,Sensitive,0,0,0,0,2025-08-18,Half-Yearly,Open
+V0453,Wali-Choudhary,IT Support,Haryana,High,North,0,2,0,85,2,96,Yes,Sensitive,0,0,0,0,2026-01-10,Monthly,Open
+V0454,Sengupta Ltd,Managed Services,Tamil Nadu,Medium,South,0,3,6,70,3,74,Yes,Sensitive,1,1,0,30,2025-08-28,Quarterly,Under Review
+V0455,Panchal LLC,NOC Operations,Karnataka,Critical,East,0,0,3,100,2,95,Yes,Public,0,0,0,15,2025-07-15,Monthly,Mitigation In Progress
+V0456,Date Inc,Cyber Security Services,Mumbai,Medium,East,1,3,1,85,1,92,Yes,Internal,0,0,0,15,2026-01-28,Annually,Closed
+V0457,"Pingle, Chahal and Nagar",Network Equipment,Madhya Pradesh,Low,West,0,1,1,100,1,85,Yes,Internal,0,0,0,15,2026-05-25,Monthly,Mitigation In Progress
+V0458,Chowdhury PLC,Tower Maintenance,Haryana,Medium,North,0,7,5,75,2,86,Yes,Public,0,0,0,45,2026-03-20,Half-Yearly,Mitigation In Progress
+V0459,Chaudhuri Ltd,Field Operations,Karnataka,Critical,South,2,2,4,70,1,74,Yes,Public,1,0,0,0,2025-08-18,Annually,Open
+V0460,Sinha-Muni,NOC Operations,Punjab,Low,West,4,7,4,70,7,60,No,Internal,4,1,2,90,2025-10-28,Half-Yearly,Closed
+V0461,Sarma-Dugar,Network Equipment,Odisha,Critical,South,3,6,5,60,6,76,Yes,Public,3,1,3,60,2026-06-11,Half-Yearly,Closed
+V0462,"Nagy, Bobal and Sabharwal",Fiber Operations,Gujarat,High,North,0,0,1,100,3,98,Yes,Public,1,1,0,0,2026-01-14,Half-Yearly,Open
+V0463,Parikh Inc,Field Operations,Rajasthan,High,North,0,0,2,100,0,85,Yes,Public,0,0,0,15,2025-12-29,Annually,Mitigation In Progress
+V0464,Dani LLC,Power Infrastructure,Rajasthan,High,North,0,0,0,90,1,88,Yes,Sensitive,1,0,0,0,2026-01-29,Annually,Under Review
+V0465,Bhavsar and Sons,Field Operations,Delhi,Medium,West,10,14,13,50,7,65,Yes,Public,3,3,3,90,2025-10-31,Monthly,Closed
+V0466,Dara LLC,Field Operations,Bihar,Critical,North,0,4,3,90,2,78,No,Confidential,2,2,0,0,2025-07-05,Monthly,Closed
+V0467,Mandal Inc,Cyber Security Services,Andhra Pradesh,Critical,West,2,6,5,80,4,83,No,Confidential,1,0,2,30,2026-04-20,Half-Yearly,Mitigation In Progress
+V0468,"Khalsa, Nanda and Sekhon",Fiber Operations,Kerala,Low,North,0,0,1,90,0,95,No,Confidential,0,0,0,15,2025-12-05,Quarterly,Under Review
+V0469,"Bhatia, Shukla and Mishra",Cyber Security Services,Haryana,Medium,West,1,7,2,90,1,83,Yes,Public,2,0,0,0,2026-01-23,Annually,Under Review
+V0470,Deo-Gour,RF Optimization,Rajasthan,Low,South,1,0,1,90,1,93,Yes,Sensitive,0,0,0,15,2025-09-12,Quarterly,Closed
+V0471,Dhar and Sons,Data Center Services,Chandigarh,Critical,North,0,2,6,70,1,73,No,Public,2,0,0,15,2026-03-05,Half-Yearly,Open
+V0472,Borra Inc,Cloud Services,Delhi,Low,South,5,8,11,70,4,68,Yes,Sensitive,4,1,1,30,2026-05-01,Monthly,Open
+V0473,Prasad LLC,Cyber Security Services,Andhra Pradesh,Critical,East,0,5,4,70,5,72,No,Internal,2,0,0,30,2026-05-25,Half-Yearly,Open
+V0474,Deol and Sons,Managed Services,UP West,Critical,South,0,0,1,95,1,93,Yes,Sensitive,0,0,0,15,2025-07-14,Annually,Closed
+V0475,Padmanabhan-Dash,Managed Services,Mohali,Critical,North,6,5,5,65,6,76,Yes,Confidential,2,2,3,45,2026-02-20,Quarterly,Closed
+V0476,Chakrabarti and Sons,Data Center Services,Madhya Pradesh,Low,East,8,20,12,60,6,54,No,Sensitive,6,3,3,90,2025-12-09,Quarterly,Closed
+V0477,"Vig, Bhandari and Korpal",Cloud Services,Noida,Medium,West,4,11,8,75,4,64,Yes,Confidential,4,2,3,45,2025-08-04,Monthly,Closed
+V0478,Parekh and Sons,Power Infrastructure,West Bengal,Medium,West,0,5,3,85,2,81,Yes,Public,1,0,0,45,2026-04-13,Monthly,Open
+V0479,"Vora, Salvi and Deshpande",Field Operations,UP East,Critical,South,6,6,6,80,7,61,Yes,Sensitive,3,1,3,45,2026-05-16,Half-Yearly,Open
+V0480,"Garde, Char and Singh",Managed Services,Odisha,Low,West,3,3,6,80,2,85,Yes,Confidential,1,1,1,15,2026-04-28,Half-Yearly,Mitigation In Progress
+V0481,Nayar PLC,RF Optimization,Chandigarh,High,East,0,0,1,85,1,90,Yes,Confidential,0,0,0,0,2025-06-29,Annually,Closed
+V0482,Badal-Thakur,RF Optimization,Gurugram,Low,East,1,8,3,70,1,77,Yes,Internal,0,2,1,15,2025-12-23,Annually,Closed
+V0483,Prabhakar-Chaudhuri,Managed Services,Odisha,Low,East,0,0,0,85,1,88,Yes,Confidential,0,0,0,0,2026-04-28,Half-Yearly,Open
+V0484,"Saini, Ahluwalia and Bali",NOC Operations,UP East,Medium,South,1,7,3,80,3,79,No,Internal,0,1,2,30,2026-06-09,Half-Yearly,Mitigation In Progress
+V0485,Sarraf-Bala,Power Infrastructure,Haryana,Medium,West,0,0,2,95,1,96,No,Public,0,0,0,15,2025-08-23,Quarterly,Mitigation In Progress
+V0486,Garde LLC,Field Operations,Andhra Pradesh,Low,West,0,2,0,90,0,95,Yes,Public,0,0,1,0,2025-06-30,Half-Yearly,Mitigation In Progress
+V0487,"Bedi, Basu and Ramakrishnan",Managed Services,Haryana,Low,East,0,1,1,95,1,87,Yes,Confidential,0,0,0,15,2025-07-16,Monthly,Mitigation In Progress
+V0488,Nagi-Toor,Field Operations,Delhi,Low,West,1,0,0,100,1,91,Yes,Public,0,0,0,0,2025-09-27,Half-Yearly,Closed
+V0489,Srinivasan-Tella,Cyber Security Services,Kerala,High,West,6,6,10,60,6,60,No,Public,1,2,2,90,2025-12-14,Half-Yearly,Open
+V0490,Gole Group,Cloud Services,Chandigarh,Low,South,0,1,3,100,3,90,Yes,Internal,1,0,0,15,2025-09-03,Monthly,Open
+V0491,"Sachdeva, Baria and Chadha",Cloud Services,Karnataka,High,West,0,0,0,80,2,93,No,Confidential,0,0,0,15,2026-02-12,Annually,Closed
+V0492,Mohan and Sons,IT Support,Mumbai,Low,East,4,6,5,75,3,64,No,Sensitive,2,2,3,45,2025-07-18,Half-Yearly,Open
+V0493,Nath PLC,Field Operations,Telangana,Medium,North,7,10,9,55,8,46,Yes,Confidential,6,4,3,180,2025-09-02,Quarterly,Under Review
+V0494,"Seth, Natarajan and Bath",Field Operations,Karnataka,Low,West,3,6,7,75,3,76,Yes,Confidential,2,1,1,60,2025-09-24,Monthly,Closed
+V0495,"Warrior, Murthy and Buch",Managed Services,Delhi,Critical,East,2,3,7,90,1,75,No,Internal,0,0,2,30,2025-10-07,Quarterly,Mitigation In Progress
+V0496,"Lala, Mishra and Guha",RF Optimization,Telangana,High,South,7,10,9,60,10,64,No,Public,5,4,4,150,2026-04-18,Quarterly,Under Review
+V0497,Agate-Ray,IT Support,Tamil Nadu,Medium,South,8,9,13,60,7,57,No,Public,3,3,4,150,2026-03-24,Annually,Mitigation In Progress
+V0498,Borah Group,Cyber Security Services,Delhi,Medium,West,0,2,3,90,3,93,Yes,Confidential,0,0,0,0,2025-06-28,Half-Yearly,Under Review
+V0499,Venkataraman-Bajwa,RF Optimization,Bihar,Medium,East,9,9,13,60,6,58,No,Sensitive,4,3,3,120,2025-11-21,Quarterly,Mitigation In Progress
+V0500,Bhatnagar Ltd,Fiber Operations,Madhya Pradesh,High,South,1,5,2,90,2,82,No,Internal,0,0,1,15,2026-04-25,Half-Yearly,Mitigation In Progress
+V0501,Srinivasan PLC,Power Infrastructure,Tamil Nadu,High,North,3,6,2,80,1,81,Yes,Confidential,0,1,0,45,2026-01-26,Monthly,Under Review
+V0502,Singhal Inc,Field Operations,Punjab,High,West,3,12,6,70,3,61,No,Confidential,2,2,1,60,2026-02-10,Monthly,Under Review
+V0503,Karan Group,IT Support,Andhra Pradesh,Low,North,0,0,0,90,3,87,Yes,Confidential,0,0,0,0,2026-06-12,Half-Yearly,Under Review
+V0504,Mittal Group,IT Support,Andhra Pradesh,Low,West,0,0,2,100,0,93,Yes,Internal,0,0,0,15,2025-08-19,Half-Yearly,Under Review
+V0505,"Doshi, Rastogi and Ratta",Field Operations,Karnataka,Low,West,1,6,4,80,1,74,No,Sensitive,0,0,0,0,2025-11-25,Quarterly,Closed
+V0506,"Mohan, Randhawa and Maharaj",Field Operations,Mohali,High,North,0,1,0,80,0,95,Yes,Public,0,0,0,0,2025-10-29,Annually,Open
+V0507,Viswanathan-Om,RF Optimization,Chandigarh,High,West,0,5,5,80,3,80,Yes,Internal,2,0,1,0,2025-12-19,Half-Yearly,Open
+V0508,Gour-Radhakrishnan,Data Center Services,Assam,Medium,West,1,3,2,75,2,79,Yes,Confidential,1,1,0,15,2026-02-04,Half-Yearly,Under Review
+V0509,"Bahl, Goda and Jayaraman",Tower Maintenance,Tamil Nadu,High,East,1,3,3,75,1,72,Yes,Sensitive,0,1,0,30,2026-06-13,Monthly,Under Review
+V0510,"Rajan, Parikh and Bawa",Data Center Services,West Bengal,Low,North,0,8,4,80,5,79,No,Internal,0,1,1,15,2026-05-21,Annually,Under Review
+V0511,Palan-Radhakrishnan,Field Operations,Kerala,High,South,0,0,1,85,2,87,Yes,Internal,0,0,0,0,2025-10-28,Quarterly,Closed
+V0512,"Pillai, Raghavan and Varma",RF Optimization,Maharashtra,Critical,North,0,6,6,85,2,88,Yes,Confidential,1,0,0,15,2025-11-12,Annually,Under Review
+V0513,Mittal-Goel,Fiber Operations,Andhra Pradesh,Medium,South,2,4,7,80,1,86,Yes,Sensitive,0,1,2,0,2026-01-24,Half-Yearly,Closed
+V0514,"Suresh, Maharaj and Lalla",NOC Operations,Mohali,High,North,6,10,6,40,8,41,No,Public,3,3,3,120,2026-04-03,Quarterly,Mitigation In Progress
+V0515,Sani-Sathe,RF Optimization,UP East,Critical,West,0,2,2,95,1,86,Yes,Public,0,0,0,0,2025-11-19,Annually,Under Review
+V0516,Chhabra Ltd,Managed Services,Gurugram,Critical,North,2,5,7,85,1,82,Yes,Internal,2,0,2,15,2026-01-10,Monthly,Mitigation In Progress
+V0517,Verma and Sons,RF Optimization,Mohali,High,South,3,8,9,75,4,60,Yes,Public,3,1,2,90,2026-05-23,Annually,Open
+V0518,Mallick Inc,RF Optimization,Mumbai,High,West,0,0,2,90,2,85,Yes,Internal,1,1,0,0,2025-08-02,Half-Yearly,Mitigation In Progress
+V0519,Balan-Mohan,Fiber Operations,Karnataka,Medium,South,3,3,6,75,2,82,No,Public,0,0,1,30,2025-11-30,Half-Yearly,Mitigation In Progress
+V0520,Anand LLC,NOC Operations,Bihar,Critical,West,1,3,6,70,4,83,Yes,Sensitive,1,2,0,15,2025-11-09,Quarterly,Under Review
+V0521,Lall-Barman,Field Operations,Rajasthan,Low,East,1,2,1,95,0,96,No,Sensitive,0,0,0,0,2025-07-13,Half-Yearly,Closed
+V0522,"Guha, Tak and Bhandari",Network Equipment,Telangana,High,West,0,0,4,100,1,95,Yes,Sensitive,0,1,0,0,2026-06-17,Quarterly,Open
+V0523,Kala-Shan,IT Support,Mumbai,High,South,3,8,6,60,4,61,Yes,Public,2,1,1,90,2026-05-17,Quarterly,Under Review
+V0524,"Sama, Khosla and Kaul",Power Infrastructure,UP West,Medium,East,0,0,0,90,0,96,Yes,Sensitive,1,0,0,15,2025-12-30,Half-Yearly,Under Review
+V0525,Chanda PLC,NOC Operations,Odisha,High,North,0,3,0,85,2,85,Yes,Confidential,1,1,0,0,2025-07-25,Quarterly,Open
+V0526,"Rastogi, Dube and Mandal",Cloud Services,Andhra Pradesh,Medium,South,6,8,4,65,5,65,Yes,Internal,4,3,2,45,2026-03-31,Quarterly,Under Review
+V0527,Mand-Jhaveri,Data Center Services,Gujarat,Medium,South,4,6,5,70,5,70,No,Confidential,2,1,1,45,2026-02-07,Half-Yearly,Under Review
+V0528,Cherian LLC,Cyber Security Services,Rajasthan,Medium,South,0,2,4,75,2,87,Yes,Internal,2,1,1,30,2025-10-02,Annually,Open
+V0529,Devi and Sons,Data Center Services,Chandigarh,High,West,1,1,0,85,1,94,Yes,Public,0,1,0,0,2026-05-13,Monthly,Mitigation In Progress
+V0530,Raju-Varty,Data Center Services,Andhra Pradesh,High,South,1,2,4,70,3,80,Yes,Confidential,0,1,0,0,2026-04-26,Half-Yearly,Open
+V0531,Tata and Sons,Cloud Services,Maharashtra,Medium,North,0,0,2,100,0,96,Yes,Sensitive,0,0,0,0,2025-10-31,Half-Yearly,Closed
+V0532,"Iyer, Buch and Kadakia",NOC Operations,Madhya Pradesh,High,South,1,0,0,95,0,86,Yes,Public,0,1,1,0,2026-06-19,Quarterly,Mitigation In Progress
+V0533,"Majumdar, Barad and Bhattacharyya",Power Infrastructure,Gurugram,Critical,North,9,9,6,60,8,58,No,Public,3,4,5,60,2025-12-14,Quarterly,Under Review
+V0534,"More, Gulati and Devi",Cyber Security Services,Madhya Pradesh,Medium,East,0,2,5,80,1,77,Yes,Sensitive,2,1,2,0,2025-11-16,Quarterly,Closed
+V0535,Chacko Ltd,Network Equipment,Telangana,Critical,North,0,2,4,85,3,99,Yes,Sensitive,1,0,0,0,2025-10-29,Annually,Open
+V0536,Savant and Sons,Fiber Operations,Madhya Pradesh,Critical,East,5,8,8,70,4,71,Yes,Internal,2,1,2,45,2026-01-25,Monthly,Closed
+V0537,Kala PLC,Network Equipment,Bihar,High,West,0,3,1,90,2,95,Yes,Confidential,0,0,0,0,2026-02-21,Annually,Under Review
+V0538,Sheth-Thaman,Power Infrastructure,Bihar,Critical,East,3,5,3,80,3,86,No,Public,0,0,1,15,2026-01-10,Half-Yearly,Under Review
+V0539,"Chanda, Ravi and Sankar",IT Support,Bihar,Low,West,3,4,5,80,4,84,No,Public,0,1,0,30,2025-08-14,Annually,Under Review
+V0540,Sarkar LLC,NOC Operations,UP East,High,South,1,2,4,80,3,77,Yes,Confidential,1,2,0,0,2026-03-11,Monthly,Open
+V0541,Bora and Sons,Fiber Operations,Maharashtra,Medium,North,1,2,8,85,3,72,Yes,Sensitive,2,1,0,0,2025-08-29,Annually,Mitigation In Progress
+V0542,Singh-Arora,IT Support,Rajasthan,Medium,East,3,7,4,70,1,72,Yes,Internal,1,0,0,45,2025-10-15,Quarterly,Open
+V0543,Bala and Sons,IT Support,Andhra Pradesh,High,East,10,11,11,50,8,40,Yes,Public,5,3,5,90,2025-08-15,Monthly,Closed
+V0544,Arora-Dhaliwal,Field Operations,Punjab,Medium,North,0,3,3,90,0,94,Yes,Internal,0,0,0,0,2025-07-29,Half-Yearly,Closed
+V0545,Bail-Kuruvilla,Data Center Services,West Bengal,Critical,North,1,0,1,95,0,94,Yes,Internal,0,1,0,15,2025-12-15,Quarterly,Mitigation In Progress
+V0546,Mand PLC,IT Support,Odisha,High,East,8,10,9,50,7,55,No,Confidential,4,3,5,120,2026-03-12,Half-Yearly,Under Review
+V0547,Pathak-Natt,Cloud Services,Noida,Critical,North,5,11,9,75,5,77,Yes,Sensitive,3,3,2,30,2025-11-14,Half-Yearly,Closed
+V0548,Chopra Inc,Cyber Security Services,Tamil Nadu,High,West,3,3,4,80,3,80,Yes,Confidential,2,0,1,15,2026-01-28,Quarterly,Under Review
+V0549,Bal-Handa,IT Support,Kerala,Critical,East,0,1,2,80,0,98,Yes,Sensitive,0,0,0,0,2026-03-14,Quarterly,Open
+V0550,Ben Group,NOC Operations,Bihar,High,South,4,9,6,70,7,72,No,Public,3,2,1,60,2025-12-28,Monthly,Under Review
+V0551,Grover-Prasad,IT Support,Telangana,Low,North,1,7,5,75,2,86,Yes,Internal,2,0,1,15,2026-04-13,Annually,Under Review
+V0552,Wable Group,Cyber Security Services,Assam,Critical,East,0,2,3,85,2,82,Yes,Public,1,0,0,0,2026-02-24,Annually,Closed
+V0553,"Reddy, Yohannan and Dua",Data Center Services,Haryana,Low,South,0,0,2,90,1,91,Yes,Sensitive,0,0,0,15,2025-12-13,Quarterly,Closed
+V0554,Nagy PLC,Tower Maintenance,Delhi,Critical,West,1,7,7,80,2,77,Yes,Sensitive,0,1,2,15,2025-10-19,Half-Yearly,Mitigation In Progress
+V0555,Tara and Sons,Cloud Services,Kerala,High,North,0,6,3,90,1,84,Yes,Sensitive,1,0,0,0,2025-12-18,Quarterly,Under Review
+V0556,"Yadav, Pant and Buch",Cloud Services,Telangana,Medium,East,2,3,4,80,2,74,Yes,Internal,1,1,2,30,2025-12-10,Quarterly,Open
+V0557,"Swamy, Comar and Kala",Network Equipment,Haryana,Low,West,1,6,6,75,3,79,No,Sensitive,2,0,0,0,2026-02-11,Half-Yearly,Closed
+V0558,"Sehgal, Doshi and Sani",Power Infrastructure,Odisha,Low,North,0,2,4,80,5,75,No,Internal,2,1,0,0,2026-04-06,Annually,Under Review
+V0559,Baria-Chad,Tower Maintenance,Mumbai,Critical,East,1,3,4,80,1,80,No,Confidential,0,2,1,0,2026-05-25,Annually,Under Review
+V0560,Tandon-Bhatti,IT Support,Madhya Pradesh,Low,North,2,4,6,80,4,77,Yes,Confidential,0,1,0,0,2026-01-04,Monthly,Closed
+V0561,Tiwari and Sons,Managed Services,Odisha,Critical,East,5,10,8,70,4,70,Yes,Confidential,3,1,1,30,2026-06-11,Monthly,Closed
+V0562,Narasimhan PLC,Power Infrastructure,Karnataka,Low,North,1,0,1,90,1,87,No,Public,1,1,0,0,2025-12-23,Half-Yearly,Open
+V0563,Lalla and Sons,Data Center Services,Noida,Low,East,3,6,6,65,7,70,No,Public,1,2,3,90,2025-09-07,Annually,Under Review
+V0564,Yohannan-Raju,Data Center Services,Tamil Nadu,Critical,West,4,6,5,80,4,68,No,Sensitive,3,1,1,45,2025-10-26,Monthly,Open
+V0565,"Tripathi, Sibal and Varghese",NOC Operations,Noida,Critical,East,7,11,6,55,10,44,Yes,Internal,7,5,5,120,2025-10-20,Half-Yearly,Closed
+V0566,"Baria, Banerjee and Nigam",Cyber Security Services,Tamil Nadu,High,East,3,9,5,65,6,75,Yes,Internal,2,2,2,30,2025-07-27,Quarterly,Under Review
+V0567,"Narayanan, Vora and Vora",Cloud Services,Haryana,Low,North,0,3,7,85,5,85,No,Internal,2,0,0,0,2026-06-02,Quarterly,Under Review
+V0568,Yogi-Ganguly,Network Equipment,Rajasthan,Critical,East,1,2,2,75,5,79,No,Sensitive,2,1,1,15,2026-05-14,Annually,Mitigation In Progress
+V0569,Sani Inc,IT Support,Chandigarh,High,South,0,3,2,85,1,92,Yes,Sensitive,0,0,0,0,2025-11-30,Quarterly,Under Review
+V0570,"Warrior, Pradhan and Bedi",IT Support,Odisha,Medium,North,2,8,3,85,2,86,Yes,Public,2,1,0,0,2026-06-12,Quarterly,Mitigation In Progress
+V0571,Behl Inc,Tower Maintenance,Mumbai,Medium,South,0,0,0,90,0,93,Yes,Confidential,0,0,1,0,2025-08-27,Annually,Under Review
+V0572,"Singh, Tara and Bail",NOC Operations,Maharashtra,Medium,South,6,9,4,70,3,69,No,Confidential,1,1,1,90,2026-01-12,Monthly,Under Review
+V0573,Uppal Ltd,Network Equipment,Kerala,Medium,South,1,2,5,80,4,85,Yes,Public,1,0,0,15,2026-01-02,Monthly,Closed
+V0574,Kaul-Grover,Data Center Services,Chandigarh,Low,South,4,11,7,70,4,61,No,Confidential,4,1,2,30,2026-01-02,Annually,Open
+V0575,"Murty, Malhotra and Dutt",Managed Services,Maharashtra,Low,South,9,11,11,45,8,44,No,Internal,3,3,4,120,2025-10-21,Annually,Mitigation In Progress
+V0576,De PLC,Power Infrastructure,Karnataka,High,West,0,1,0,100,0,90,Yes,Internal,0,0,0,0,2025-11-16,Monthly,Open
+V0577,Ganguly-Keer,Power Infrastructure,Gurugram,Medium,North,0,0,0,80,0,98,Yes,Internal,0,0,0,0,2025-11-27,Quarterly,Closed
+V0578,Chada PLC,Cyber Security Services,Gujarat,Low,West,1,1,0,80,0,98,Yes,Sensitive,0,0,0,15,2026-04-27,Monthly,Closed
+V0579,Saini-Mukherjee,Managed Services,UP East,High,North,1,6,6,80,2,86,Yes,Public,0,0,0,15,2025-08-22,Half-Yearly,Mitigation In Progress
+V0580,Loke-Chaudhuri,NOC Operations,Rajasthan,Medium,West,3,6,8,80,3,76,Yes,Public,1,1,1,30,2026-03-27,Monthly,Mitigation In Progress
+V0581,Dhar-Sekhon,Managed Services,West Bengal,High,South,1,3,2,90,5,82,Yes,Internal,2,2,0,0,2025-08-20,Annually,Under Review
+V0582,"Dhillon, Pillai and Gola",IT Support,Noida,High,South,1,1,0,90,0,96,Yes,Sensitive,1,0,0,0,2026-04-16,Monthly,Closed
+V0583,Ghose LLC,Managed Services,Bihar,Low,East,0,2,1,90,0,98,Yes,Confidential,1,0,0,0,2026-02-07,Monthly,Under Review
+V0584,"Mandal, Borra and Badal",Network Equipment,Odisha,Low,North,0,1,0,80,2,88,Yes,Internal,0,1,0,0,2026-03-18,Monthly,Open
+V0585,Ahuja-Kapoor,NOC Operations,Madhya Pradesh,Medium,East,3,5,7,70,4,67,No,Sensitive,1,1,3,90,2026-01-07,Half-Yearly,Closed
+V0586,"Mani, Thaker and Bhagat",Cyber Security Services,Tamil Nadu,Critical,North,0,0,0,85,0,97,Yes,Internal,0,0,0,0,2026-01-15,Half-Yearly,Closed
+V0587,"Boase, Varughese and Khurana",Fiber Operations,Odisha,Low,East,3,6,11,75,4,63,No,Confidential,3,2,2,90,2025-06-24,Monthly,Under Review
+V0588,Balasubramanian and Sons,Field Operations,Telangana,Critical,West,6,12,4,80,7,61,No,Sensitive,1,3,2,30,2026-04-09,Quarterly,Closed
+V0589,Sidhu-Sodhi,Cyber Security Services,West Bengal,High,North,1,1,1,100,0,92,Yes,Internal,0,1,0,0,2026-06-19,Half-Yearly,Mitigation In Progress
+V0590,"Thakkar, Sampath and Ravel",Cyber Security Services,Bihar,Low,North,0,0,3,90,0,97,Yes,Confidential,0,0,0,0,2025-08-05,Half-Yearly,Mitigation In Progress
+V0591,Dubey-Banik,Field Operations,Kerala,Low,East,0,8,6,75,2,72,No,Sensitive,0,1,0,0,2026-03-29,Annually,Mitigation In Progress
+V0592,Salvi-Bose,RF Optimization,Odisha,Critical,East,0,0,1,90,1,85,Yes,Internal,0,0,0,15,2026-01-10,Quarterly,Open
+V0593,Master-Sant,RF Optimization,Gurugram,Critical,North,4,6,6,75,5,65,No,Confidential,3,1,2,45,2025-09-16,Monthly,Open
+V0594,Parmer PLC,Tower Maintenance,Mohali,Low,East,1,2,4,85,1,84,Yes,Internal,0,1,1,0,2026-01-18,Half-Yearly,Open
+V0595,"Muni, Batta and Om",Managed Services,Telangana,Medium,South,0,2,2,85,5,76,No,Sensitive,2,2,0,45,2025-12-02,Monthly,Under Review
+V0596,"Gandhi, Mannan and Warrior",Cyber Security Services,Rajasthan,Critical,East,2,3,2,75,2,84,No,Internal,0,1,0,30,2026-04-13,Monthly,Mitigation In Progress
+V0597,"Bali, Shanker and Baral",Cyber Security Services,Gurugram,Critical,West,5,5,7,70,7,64,No,Public,2,2,1,30,2026-06-13,Annually,Under Review
+V0598,Kapur PLC,Power Infrastructure,Andhra Pradesh,Low,West,3,7,6,65,4,64,No,Sensitive,3,2,2,30,2025-09-18,Monthly,Closed
+V0599,"Kulkarni, Chopra and Badami",IT Support,Rajasthan,High,East,1,2,5,80,3,74,Yes,Sensitive,2,2,0,45,2025-08-18,Half-Yearly,Under Review
+V0600,Ravi LLC,Field Operations,West Bengal,Low,North,5,14,7,65,5,75,Yes,Internal,3,2,2,45,2026-05-14,Annually,Under Review
+V0601,"Sule, Contractor and Kulkarni",Power Infrastructure,Chandigarh,Low,West,6,6,8,70,6,62,No,Internal,3,3,3,60,2025-11-01,Annually,Mitigation In Progress
+V0602,Gaba LLC,Data Center Services,Maharashtra,High,East,1,1,0,95,0,88,Yes,Confidential,0,0,0,0,2026-04-22,Half-Yearly,Closed
+V0603,"Manda, Thaman and Bedi",Cyber Security Services,Chandigarh,Medium,West,2,5,3,80,1,79,Yes,Internal,2,0,2,15,2025-10-10,Annually,Under Review
+V0604,"Dube, Dugar and Shan",Network Equipment,Tamil Nadu,Medium,North,0,5,0,95,0,90,Yes,Internal,0,0,0,15,2025-10-25,Monthly,Closed
+V0605,Joshi LLC,Cyber Security Services,West Bengal,Medium,South,3,2,8,70,4,88,Yes,Internal,1,0,1,15,2026-03-05,Half-Yearly,Open
+V0606,Chauhan-Mahal,RF Optimization,Karnataka,Medium,West,1,7,7,80,2,88,No,Confidential,1,0,0,45,2025-10-23,Quarterly,Under Review
+V0607,Mani-Kibe,IT Support,Mumbai,Medium,West,0,2,1,90,0,100,Yes,Confidential,0,0,0,0,2026-06-19,Monthly,Mitigation In Progress
+V0608,Murty and Sons,Tower Maintenance,Gujarat,High,South,0,2,0,95,2,97,Yes,Sensitive,1,0,0,0,2026-04-06,Half-Yearly,Open
+V0609,"Chatterjee, Ramanathan and Shanker",Power Infrastructure,Telangana,Medium,East,0,4,1,95,2,99,Yes,Sensitive,0,1,0,15,2025-07-31,Monthly,Closed
+V0610,Shetty LLC,Managed Services,West Bengal,High,South,8,16,7,60,6,55,Yes,Public,6,3,5,120,2026-04-14,Monthly,Under Review
+V0611,Mohan-Sha,Data Center Services,UP West,Medium,North,0,1,3,80,0,93,Yes,Internal,0,1,0,15,2026-02-25,Quarterly,Closed
+V0612,"Mahajan, Sawhney and Sawhney",Field Operations,Telangana,High,North,0,0,2,100,0,91,Yes,Public,0,0,0,0,2025-10-21,Half-Yearly,Closed
+V0613,"Singhal, Chada and Sankaran",Managed Services,Maharashtra,Critical,North,1,6,3,90,2,81,Yes,Confidential,0,0,2,0,2026-04-04,Quarterly,Closed
+V0614,Sachar-Chana,Cloud Services,West Bengal,Low,South,3,5,4,85,3,73,No,Confidential,2,0,0,0,2025-10-12,Half-Yearly,Closed
+V0615,Handa PLC,Cloud Services,Gujarat,Medium,West,6,10,7,75,4,64,No,Sensitive,1,2,1,30,2026-02-10,Quarterly,Under Review
+V0616,Dixit-Hans,Data Center Services,Noida,Critical,North,1,1,0,80,1,100,Yes,Internal,1,0,0,15,2026-06-01,Quarterly,Mitigation In Progress
+V0617,"Chaudhary, Raval and Batta",NOC Operations,Tamil Nadu,High,South,0,0,4,100,1,99,Yes,Sensitive,0,0,0,15,2025-08-16,Quarterly,Open
+V0618,"Grewal, Mani and Saraf",Cyber Security Services,Noida,Low,South,2,6,3,80,3,76,No,Confidential,2,2,0,30,2025-12-22,Quarterly,Open
+V0619,Nagy-Tripathi,Cyber Security Services,UP East,Low,East,0,7,3,70,3,86,No,Public,2,1,1,15,2025-07-31,Annually,Under Review
+V0620,Choudhary PLC,RF Optimization,Chandigarh,Low,North,0,0,3,85,0,99,Yes,Public,1,0,0,15,2025-12-02,Half-Yearly,Under Review
+V0621,Sibal Ltd,RF Optimization,Madhya Pradesh,High,East,0,0,1,95,0,86,No,Internal,1,0,0,0,2025-10-01,Quarterly,Closed
+V0622,Mody-Shah,Data Center Services,Gurugram,Medium,East,0,0,0,95,0,90,Yes,Sensitive,0,0,0,0,2026-05-18,Annually,Closed
+V0623,Minhas-Barad,Network Equipment,Noida,Critical,West,1,7,3,75,1,87,Yes,Internal,2,0,1,45,2025-07-08,Annually,Closed
+V0624,"Ramakrishnan, Patla and Kota",NOC Operations,Madhya Pradesh,Medium,East,0,8,5,85,1,86,Yes,Internal,0,0,2,15,2026-01-08,Quarterly,Open
+V0625,Brar Ltd,Tower Maintenance,UP East,Critical,East,2,9,8,85,4,75,No,Internal,2,1,2,45,2025-07-04,Annually,Open
+V0626,"Rau, Rattan and Minhas",Managed Services,Mumbai,Low,West,1,4,2,90,3,93,No,Sensitive,0,1,0,15,2025-12-04,Annually,Open
+V0627,"Mann, Subramaniam and Thaker",Network Equipment,Maharashtra,Low,West,0,1,1,100,1,88,Yes,Sensitive,0,0,0,15,2026-02-03,Annually,Mitigation In Progress
+V0628,Dalal-Keer,Data Center Services,Punjab,Critical,West,0,0,1,95,1,95,Yes,Public,0,0,0,0,2025-09-30,Monthly,Mitigation In Progress
+V0629,"Gupta, Rattan and Dugal",Tower Maintenance,West Bengal,Critical,South,0,4,0,80,0,88,Yes,Sensitive,0,1,0,15,2026-03-27,Quarterly,Closed
+V0630,"Shan, Tank and Rama",Cloud Services,Chandigarh,High,East,9,8,10,65,7,46,No,Sensitive,7,4,4,90,2026-04-14,Annually,Under Review
+V0631,"Kala, Seshadri and Balakrishnan",NOC Operations,Noida,Medium,East,0,2,1,95,0,86,Yes,Confidential,0,0,0,15,2026-05-13,Monthly,Closed
+V0632,Palan-Banik,IT Support,Mumbai,Critical,North,0,2,1,90,1,93,Yes,Internal,1,0,0,0,2026-01-30,Annually,Under Review
+V0633,Agate LLC,Data Center Services,UP East,Medium,North,3,9,5,60,7,77,No,Sensitive,4,1,3,90,2025-11-16,Monthly,Closed
+V0634,Kakar-Natarajan,Data Center Services,Haryana,Medium,South,6,8,4,60,5,75,No,Internal,3,2,3,30,2025-11-06,Annually,Mitigation In Progress
+V0635,Raja-Tiwari,Field Operations,UP East,High,West,0,5,5,70,4,81,Yes,Public,1,0,2,15,2026-04-09,Monthly,Mitigation In Progress
+V0636,"Krishnamurthy, Saxena and Garde",Managed Services,Noida,Medium,East,3,5,3,80,3,76,No,Internal,0,1,0,0,2025-08-26,Quarterly,Closed
+V0637,Chandra-Prakash,Fiber Operations,Noida,Critical,East,0,6,6,70,1,85,Yes,Confidential,0,1,1,45,2025-07-29,Monthly,Open
+V0638,Mody and Sons,Tower Maintenance,Maharashtra,High,West,1,5,6,80,3,88,Yes,Confidential,0,0,2,15,2025-09-21,Half-Yearly,Open
+V0639,"Hans, Khare and Chand",IT Support,UP East,Low,South,0,0,0,95,0,99,Yes,Internal,0,0,0,0,2025-10-18,Monthly,Closed
+V0640,Nayar-Chahal,IT Support,Tamil Nadu,Medium,East,2,5,6,85,4,88,No,Confidential,1,1,2,15,2025-09-12,Monthly,Mitigation In Progress
+V0641,"Kari, Raj and Borah",Cyber Security Services,Rajasthan,High,West,0,3,2,80,3,86,Yes,Internal,2,0,1,0,2025-08-01,Monthly,Open
+V0642,Chowdhury-Wable,Data Center Services,UP West,Medium,West,5,5,11,80,7,60,Yes,Internal,2,1,2,45,2026-01-18,Half-Yearly,Under Review
+V0643,Tak Group,IT Support,Haryana,Critical,East,0,3,0,95,1,92,Yes,Public,1,0,0,0,2025-10-31,Monthly,Under Review
+V0644,"Chander, Shan and Kannan",Cloud Services,Karnataka,High,East,7,10,10,55,10,63,No,Sensitive,5,5,5,120,2026-04-07,Annually,Mitigation In Progress
+V0645,Rajagopal Ltd,Data Center Services,Kerala,Medium,South,0,2,3,100,0,100,Yes,Public,0,0,0,0,2026-04-11,Monthly,Open
+V0646,"Patla, Gala and Char",Power Infrastructure,Mohali,Low,West,4,6,6,65,5,65,Yes,Internal,2,1,1,45,2026-05-30,Annually,Under Review
+V0647,"Srivastava, Comar and Ganesh",IT Support,Noida,Low,North,3,8,8,80,6,70,Yes,Public,3,2,1,45,2026-05-29,Monthly,Under Review
+V0648,"Wadhwa, Shenoy and Shan",Data Center Services,Delhi,Critical,East,1,3,8,90,2,78,Yes,Public,2,0,0,0,2025-08-23,Annually,Closed
+V0649,"Solanki, Vig and Bhalla",Fiber Operations,Bihar,Medium,East,0,1,1,100,1,89,Yes,Public,0,1,0,15,2026-04-24,Monthly,Open
+V0650,"Anne, Munshi and Bakshi",Managed Services,Bihar,Critical,West,0,3,4,75,2,86,Yes,Internal,1,0,0,0,2025-12-29,Half-Yearly,Closed
+V0651,"Walla, Banik and Viswanathan",NOC Operations,West Bengal,High,South,0,3,6,90,3,88,Yes,Public,1,0,0,0,2025-12-16,Monthly,Open
+V0652,"Dube, Ganguly and Nadkarni",RF Optimization,Odisha,Critical,East,8,11,16,40,5,50,Yes,Public,3,3,3,180,2026-01-30,Annually,Mitigation In Progress
+V0653,"Hans, Kant and Banerjee",NOC Operations,UP East,Critical,North,9,12,7,50,10,63,No,Confidential,3,3,3,90,2025-08-08,Annually,Closed
+V0654,Shenoy-Wadhwa,Cyber Security Services,Andhra Pradesh,Low,North,5,7,11,70,3,65,No,Confidential,2,1,1,60,2025-11-01,Monthly,Closed
+V0655,Kant-Sathe,Managed Services,Telangana,Critical,West,0,0,0,95,2,100,Yes,Sensitive,1,0,0,0,2025-12-12,Half-Yearly,Closed
+V0656,Hora and Sons,Managed Services,Chandigarh,Medium,West,8,16,10,40,5,49,No,Internal,4,3,3,60,2025-07-25,Monthly,Mitigation In Progress
+V0657,Wali Group,Tower Maintenance,Punjab,Critical,North,0,2,6,80,4,86,Yes,Sensitive,2,1,1,0,2025-09-23,Half-Yearly,Mitigation In Progress
+V0658,"Singh, Kohli and Chauhan",IT Support,Maharashtra,Low,South,2,4,7,75,1,85,Yes,Public,0,0,0,45,2025-06-27,Annually,Open
+V0659,Gupta Inc,Fiber Operations,Bihar,Medium,North,9,14,13,55,6,57,No,Sensitive,7,3,3,90,2025-12-02,Monthly,Under Review
+V0660,"Parekh, Vig and Dhingra",NOC Operations,Punjab,High,North,5,13,6,75,7,72,Yes,Public,2,1,2,90,2026-05-24,Monthly,Mitigation In Progress
+V0661,Narula-Jha,Power Infrastructure,Maharashtra,High,North,1,2,5,70,3,72,No,Confidential,0,1,1,0,2025-11-10,Annually,Closed
+V0662,Swaminathan LLC,Network Equipment,Odisha,Medium,East,4,8,5,65,6,71,Yes,Sensitive,3,2,2,45,2025-12-23,Annually,Under Review
+V0663,Gulati-Tak,Network Equipment,Karnataka,Low,South,0,0,0,100,1,88,No,Sensitive,0,0,0,0,2026-01-11,Quarterly,Mitigation In Progress
+V0664,Prakash-Om,Field Operations,Odisha,Low,North,0,5,3,70,4,86,No,Internal,1,0,0,0,2026-04-08,Quarterly,Closed
+V0665,Shroff-Dhingra,Cyber Security Services,Chandigarh,Medium,South,0,2,5,80,2,82,No,Confidential,0,2,1,0,2026-03-14,Quarterly,Under Review
+V0666,"Om, Muni and Khalsa",Field Operations,Telangana,Low,South,1,2,3,85,4,88,Yes,Confidential,0,2,2,30,2025-08-11,Half-Yearly,Closed
+V0667,Aurora-Sekhon,Tower Maintenance,UP West,High,West,0,2,1,100,0,85,Yes,Confidential,0,1,0,15,2025-09-27,Monthly,Under Review
+V0668,Comar-Ramachandran,Managed Services,Bihar,Critical,East,0,0,3,90,0,97,Yes,Internal,0,0,0,0,2026-03-07,Annually,Mitigation In Progress
+V0669,Sathe-Chandran,Data Center Services,Mumbai,High,West,8,9,13,45,6,60,No,Public,4,4,3,90,2026-03-25,Quarterly,Mitigation In Progress
+V0670,Varma-Tailor,Power Infrastructure,Telangana,Critical,West,3,11,6,80,5,69,No,Confidential,4,2,2,90,2026-02-19,Half-Yearly,Open
+V0671,Ramanathan-Mody,IT Support,Maharashtra,High,East,0,6,4,70,1,81,Yes,Sensitive,0,1,1,0,2025-07-13,Half-Yearly,Under Review
+V0672,"Deep, Batra and Dass",RF Optimization,Odisha,Low,West,2,6,2,70,1,73,Yes,Internal,0,2,0,15,2026-04-07,Monthly,Under Review
+V0673,"Date, Hari and Goyal",Cloud Services,UP West,Critical,West,5,5,4,75,4,63,Yes,Internal,2,2,3,60,2026-05-22,Half-Yearly,Open
+V0674,Choudhury Ltd,Managed Services,Punjab,Low,North,0,5,6,75,4,76,Yes,Confidential,1,0,0,0,2026-06-03,Annually,Closed
+V0675,Nair-Loke,Data Center Services,Bihar,High,East,0,1,0,100,0,91,No,Internal,0,0,0,15,2025-10-20,Monthly,Closed
+V0676,"Basu, Mahal and Banerjee",Cyber Security Services,UP West,Critical,North,3,7,4,60,5,76,No,Internal,2,2,2,60,2026-03-17,Annually,Open
+V0677,Subramaniam-Mander,Data Center Services,Telangana,Critical,East,9,8,8,60,5,62,Yes,Sensitive,4,4,5,90,2025-10-07,Quarterly,Under Review
+V0678,"Barman, Munshi and Chokshi",Network Equipment,Maharashtra,High,North,5,6,5,70,4,72,No,Confidential,3,1,1,30,2025-09-21,Quarterly,Under Review
+V0679,"Rattan, Oommen and Rastogi",Fiber Operations,Karnataka,Low,North,0,3,3,75,2,81,Yes,Public,2,0,2,45,2025-08-03,Quarterly,Open
+V0680,Dugal-Datta,Power Infrastructure,Mohali,Medium,North,0,8,2,75,2,75,Yes,Confidential,0,2,1,15,2026-06-03,Monthly,Open
+V0681,Jani LLC,Tower Maintenance,Maharashtra,Medium,South,9,17,11,45,7,50,No,Confidential,3,4,4,180,2025-06-27,Half-Yearly,Closed
+V0682,De PLC,NOC Operations,Telangana,Critical,South,0,4,4,75,2,75,Yes,Confidential,1,0,0,45,2026-01-06,Monthly,Open
+V0683,Basu-Dhaliwal,Tower Maintenance,Noida,Critical,South,9,11,9,45,5,42,Yes,Sensitive,3,5,5,150,2025-11-01,Half-Yearly,Open
+V0684,Kibe LLC,Managed Services,Gujarat,Medium,East,3,8,4,70,7,62,No,Sensitive,1,3,1,60,2025-07-07,Quarterly,Closed
+V0685,Mangal-Das,RF Optimization,Odisha,High,East,0,1,0,90,0,96,Yes,Internal,0,0,0,0,2025-12-16,Annually,Under Review
+V0686,Bir LLC,Tower Maintenance,Kerala,High,South,0,0,3,100,2,93,Yes,Public,0,1,0,0,2025-11-02,Annually,Mitigation In Progress
+V0687,Ganguly-Chaudhuri,Tower Maintenance,UP East,Critical,North,1,1,0,85,0,90,Yes,Confidential,0,0,0,0,2026-01-08,Half-Yearly,Open
+V0688,Toor-Deol,RF Optimization,Mumbai,Critical,South,0,3,2,95,1,96,Yes,Public,1,1,0,0,2025-11-20,Annually,Mitigation In Progress
+V0689,Bali-Sridhar,Field Operations,West Bengal,Critical,North,3,7,7,65,3,75,No,Sensitive,2,1,1,30,2025-09-01,Annually,Open
+V0690,"Pillay, Mall and Sundaram",Managed Services,Bihar,High,South,5,7,5,70,4,69,Yes,Confidential,1,1,1,45,2025-08-10,Monthly,Under Review
+V0691,Chaudry-Parmar,Tower Maintenance,Odisha,High,West,1,4,6,85,4,85,No,Confidential,1,0,1,15,2026-05-20,Quarterly,Mitigation In Progress
+V0692,Balakrishnan-Singhal,Power Infrastructure,Rajasthan,High,West,1,1,2,100,0,90,Yes,Confidential,0,0,0,15,2025-08-22,Half-Yearly,Closed
+V0693,Sandal LLC,Data Center Services,Maharashtra,Medium,East,6,10,6,65,7,63,No,Internal,4,1,1,90,2026-01-16,Annually,Closed
+V0694,"Mishra, Varkey and Rajagopalan",NOC Operations,Gujarat,Low,South,3,12,5,70,4,65,No,Sensitive,3,3,1,30,2026-05-24,Quarterly,Closed
+V0695,"Krishnamurthy, Keer and Dass",Tower Maintenance,Delhi,Critical,East,1,5,6,85,2,73,Yes,Sensitive,0,1,0,15,2026-01-14,Annually,Closed
+V0696,Shan-Borah,Field Operations,West Bengal,Low,West,0,0,3,100,0,93,Yes,Internal,0,0,0,0,2025-08-10,Quarterly,Under Review
+V0697,"Samra, Tella and Gokhale",Data Center Services,Telangana,Medium,East,0,0,1,80,0,89,Yes,Public,0,0,0,0,2025-08-09,Annually,Closed
+V0698,Soni Ltd,Managed Services,Karnataka,Low,East,5,9,9,75,6,61,No,Public,1,2,1,30,2026-02-14,Monthly,Under Review
+V0699,Arora Ltd,Cloud Services,Noida,Low,North,5,6,8,80,6,67,No,Sensitive,1,2,1,45,2025-11-26,Monthly,Mitigation In Progress
+V0700,"Karan, Oza and Handa",Network Equipment,Odisha,Low,North,1,2,7,80,3,85,Yes,Confidential,1,0,0,30,2026-06-11,Half-Yearly,Open
+V0701,Rajagopal Ltd,Network Equipment,Rajasthan,Low,South,1,6,3,75,1,80,Yes,Internal,0,1,1,0,2026-03-11,Annually,Closed
+V0702,Lanka-Warrior,NOC Operations,Tamil Nadu,Low,South,4,8,5,80,7,60,Yes,Confidential,1,2,1,30,2026-03-03,Half-Yearly,Under Review
+V0703,"Wali, Sarna and Lala",Fiber Operations,West Bengal,High,West,3,8,11,75,6,67,No,Internal,1,2,2,45,2025-09-25,Monthly,Under Review
+V0704,"Pathak, Wable and D’Alia",Fiber Operations,West Bengal,Low,South,0,3,3,90,2,91,Yes,Confidential,1,0,0,0,2025-12-09,Annually,Mitigation In Progress
+V0705,Gola Ltd,IT Support,Odisha,High,East,1,0,0,100,1,91,Yes,Internal,0,1,0,0,2026-04-25,Annually,Open
+V0706,Sarna-Bhatt,Field Operations,Chandigarh,Low,North,8,11,8,50,7,53,No,Internal,3,4,3,180,2026-05-27,Half-Yearly,Closed
+V0707,"Vig, Bala and Patla",Power Infrastructure,Delhi,High,South,0,5,3,85,1,98,Yes,Confidential,0,0,0,0,2026-04-01,Monthly,Open
+V0708,Shan-Kale,Fiber Operations,Maharashtra,Medium,East,2,6,2,70,3,85,Yes,Sensitive,1,0,1,30,2026-04-13,Half-Yearly,Under Review
+V0709,"Chokshi, Ghosh and Vig",Data Center Services,Madhya Pradesh,Low,South,3,4,5,70,5,82,No,Confidential,0,1,0,30,2026-01-29,Half-Yearly,Closed
+V0710,Hora Group,Field Operations,Telangana,Critical,West,5,14,9,75,7,72,No,Sensitive,2,1,1,45,2025-08-16,Quarterly,Mitigation In Progress
+V0711,"Dash, Vohra and Merchant",Field Operations,Maharashtra,Critical,South,1,2,4,85,1,79,No,Sensitive,1,0,2,30,2025-08-27,Annually,Closed
+V0712,Bumb Inc,Cyber Security Services,Bihar,Critical,West,1,4,6,85,4,75,Yes,Sensitive,2,0,0,0,2025-07-07,Annually,Under Review
+V0713,"Mann, Kibe and Sheth",Power Infrastructure,Bihar,Critical,South,0,2,0,90,2,94,Yes,Public,0,0,0,0,2026-05-18,Annually,Open
+V0714,Kapadia-Jayaraman,Network Equipment,Assam,High,West,1,8,3,90,2,72,No,Internal,1,0,0,45,2025-10-17,Annually,Open
+V0715,Bandi-Balasubramanian,Tower Maintenance,Gujarat,High,South,0,0,2,95,0,94,Yes,Internal,0,0,1,0,2026-05-23,Quarterly,Closed
+V0716,"Mahajan, Krishnan and Bhagat",Cyber Security Services,Kerala,Medium,West,3,5,3,75,4,83,Yes,Internal,0,0,0,0,2025-12-22,Monthly,Open
+V0717,"Varty, Tripathi and Jain",Field Operations,Chandigarh,Critical,East,1,8,2,90,1,88,Yes,Sensitive,0,0,0,45,2025-07-17,Monthly,Open
+V0718,Mahajan Inc,Field Operations,Madhya Pradesh,Medium,East,0,2,3,85,0,91,Yes,Internal,0,0,0,15,2025-12-26,Monthly,Mitigation In Progress
+V0719,Parikh Group,IT Support,Mumbai,Medium,North,0,0,2,85,0,92,Yes,Sensitive,1,0,1,0,2025-11-05,Annually,Mitigation In Progress
+V0720,Chand Ltd,Cyber Security Services,UP East,Critical,North,0,0,0,85,1,90,Yes,Confidential,0,0,0,15,2026-06-23,Half-Yearly,Under Review
+V0721,Dhawan-Kata,IT Support,West Bengal,Critical,East,3,9,5,70,3,74,No,Internal,3,1,1,30,2026-03-23,Half-Yearly,Under Review
+V0722,Menon Ltd,Network Equipment,Telangana,Low,East,0,3,4,75,1,79,No,Sensitive,2,2,1,30,2026-02-08,Annually,Closed
+V0723,Bakshi PLC,Cloud Services,Bihar,Low,North,0,7,7,75,3,84,No,Sensitive,1,0,1,30,2025-12-14,Annually,Closed
+V0724,Deo-Krishna,Data Center Services,Madhya Pradesh,Critical,South,3,11,6,75,7,73,No,Internal,1,1,1,45,2025-10-26,Annually,Open
+V0725,Memon and Sons,Power Infrastructure,Haryana,High,West,7,8,14,45,7,57,No,Confidential,3,3,3,120,2025-09-30,Annually,Under Review
+V0726,Basu PLC,Cyber Security Services,Bihar,High,West,2,4,6,85,3,85,Yes,Internal,2,1,0,0,2025-08-28,Half-Yearly,Open
+V0727,"Tara, Dewan and Iyengar",Cyber Security Services,Punjab,High,South,6,8,7,80,5,75,No,Sensitive,3,1,2,60,2026-01-31,Half-Yearly,Closed
+V0728,Bains-Wason,RF Optimization,Assam,Low,East,2,7,4,85,4,85,Yes,Sensitive,2,0,0,0,2026-01-25,Quarterly,Under Review
+V0729,Mangal PLC,IT Support,Karnataka,Medium,North,1,9,5,85,1,88,Yes,Public,0,0,2,0,2025-10-15,Quarterly,Mitigation In Progress
+V0730,"Sastry, Pant and Gokhale",IT Support,Rajasthan,Critical,North,6,15,9,45,6,52,No,Internal,3,3,5,90,2025-09-04,Annually,Open
+V0731,"Wali, Om and Trivedi",NOC Operations,Chandigarh,Low,West,8,13,13,55,8,65,No,Confidential,4,3,3,120,2026-05-23,Quarterly,Closed
+V0732,Sibal-Bhavsar,NOC Operations,Andhra Pradesh,High,North,3,7,5,70,4,87,Yes,Public,2,2,0,0,2025-10-24,Half-Yearly,Mitigation In Progress
+V0733,"Kapur, Dixit and Kannan",NOC Operations,Andhra Pradesh,Critical,North,1,3,4,90,3,82,Yes,Internal,1,1,2,15,2025-07-19,Quarterly,Open
+V0734,"Padmanabhan, Khosla and Pathak",Power Infrastructure,Maharashtra,Critical,North,0,2,2,85,2,88,Yes,Confidential,1,0,0,0,2025-12-19,Quarterly,Mitigation In Progress
+V0735,"Bhargava, Barman and Dass",Field Operations,Karnataka,Critical,East,3,5,9,75,6,64,No,Public,1,1,1,60,2026-05-09,Monthly,Closed
+V0736,Mital Ltd,NOC Operations,Rajasthan,Critical,East,0,0,1,80,1,96,No,Internal,1,0,0,0,2025-10-28,Annually,Mitigation In Progress
+V0737,Manda-Kant,Tower Maintenance,Noida,Medium,West,0,2,2,75,2,73,Yes,Sensitive,0,0,2,0,2025-07-27,Quarterly,Mitigation In Progress
+V0738,"Batta, Dugar and Dhingra",Field Operations,UP East,Critical,North,0,0,0,95,2,91,Yes,Confidential,1,0,0,0,2026-06-10,Quarterly,Under Review
+V0739,Roy Group,Fiber Operations,Delhi,Low,South,0,1,0,90,0,99,No,Internal,0,0,0,0,2025-07-04,Quarterly,Open
+V0740,"Mishra, Garg and Patla",Fiber Operations,Andhra Pradesh,High,South,1,2,5,75,4,75,Yes,Internal,1,0,0,15,2025-12-25,Annually,Under Review
+V0741,"Basak, Sunder and Hora",Field Operations,Karnataka,High,West,0,2,7,85,1,75,Yes,Public,0,1,2,30,2026-03-14,Quarterly,Closed
+V0742,Gandhi-Saraf,Fiber Operations,Gujarat,High,West,3,6,4,75,5,72,No,Sensitive,2,1,1,60,2025-12-15,Monthly,Open
+V0743,Master Group,Tower Maintenance,Andhra Pradesh,High,North,0,4,4,85,2,78,Yes,Public,2,1,0,15,2026-05-28,Quarterly,Closed
+V0744,"Koshy, Kumar and Sharma",Cyber Security Services,Delhi,Critical,West,0,6,3,80,3,82,Yes,Public,0,1,0,30,2025-10-04,Annually,Under Review
+V0745,"Tara, Chaudhry and Kibe",NOC Operations,Maharashtra,Low,East,2,2,2,80,3,87,Yes,Internal,0,1,0,0,2026-06-05,Annually,Mitigation In Progress
+V0746,Edwin LLC,Network Equipment,Delhi,High,South,2,7,3,80,3,82,Yes,Sensitive,0,0,1,0,2026-06-05,Half-Yearly,Closed
+V0747,Ganesh-Kapur,IT Support,Rajasthan,Medium,East,2,2,4,85,2,85,Yes,Sensitive,1,0,1,15,2026-03-09,Annually,Open
+V0748,"Sidhu, Batra and Dey",RF Optimization,Chandigarh,Critical,West,0,1,0,85,0,97,Yes,Public,0,1,0,0,2026-03-13,Half-Yearly,Mitigation In Progress
+V0749,"Balasubramanian, Lanka and Mallick",Tower Maintenance,Kerala,Medium,South,0,5,1,90,0,100,Yes,Confidential,0,0,0,0,2025-08-06,Monthly,Open
+V0750,Chacko and Sons,Cloud Services,Karnataka,High,West,0,4,6,75,2,86,No,Public,1,0,0,0,2026-04-06,Half-Yearly,Under Review
+V0751,Karan-Iyer,NOC Operations,Chandigarh,Critical,North,5,10,4,80,4,65,Yes,Sensitive,3,1,2,45,2025-08-03,Half-Yearly,Under Review
+V0752,Sur LLC,NOC Operations,Chandigarh,Low,East,1,3,2,90,4,86,No,Confidential,0,1,0,15,2026-02-07,Half-Yearly,Mitigation In Progress
+V0753,Johal-Bumb,Tower Maintenance,UP West,Medium,East,3,6,5,60,3,75,Yes,Internal,1,2,1,90,2025-07-05,Monthly,Open
+V0754,Dayal-Master,Field Operations,Mohali,High,North,0,6,2,85,1,82,No,Sensitive,1,0,0,30,2025-09-03,Half-Yearly,Closed
+V0755,Gola-Sahota,Data Center Services,Mumbai,Critical,North,0,1,2,90,0,86,Yes,Confidential,0,1,0,0,2025-08-24,Quarterly,Closed
+V0756,Chaudhary LLC,Power Infrastructure,Gujarat,High,East,4,5,8,60,7,66,No,Internal,4,2,2,30,2026-01-31,Monthly,Closed
+V0757,Chaudhari PLC,Field Operations,Telangana,Low,North,0,4,4,80,2,85,Yes,Confidential,1,0,2,15,2025-11-17,Quarterly,Closed
+V0758,Panchal-Shukla,Network Equipment,Noida,Critical,South,0,1,2,100,0,98,Yes,Confidential,1,0,0,0,2025-12-11,Quarterly,Under Review
+V0759,Parmar-Baria,Network Equipment,Rajasthan,Critical,West,1,3,0,90,0,98,Yes,Confidential,0,0,0,15,2026-02-11,Monthly,Open
+V0760,"Saha, Deshpande and Ben",Cyber Security Services,Kerala,Medium,South,0,0,2,80,2,86,Yes,Confidential,1,0,0,0,2026-05-25,Annually,Open
+V0761,"Kata, Nagi and Tank",Tower Maintenance,Mohali,High,South,0,1,2,95,1,100,Yes,Confidential,1,0,0,15,2025-12-25,Half-Yearly,Under Review
+V0762,Karnik Inc,Tower Maintenance,Chandigarh,High,East,0,0,1,85,0,93,No,Internal,0,1,0,0,2025-08-02,Annually,Closed
+V0763,Karpe-Wali,NOC Operations,Gurugram,Critical,South,2,2,6,90,1,79,Yes,Confidential,1,0,0,30,2025-11-29,Monthly,Closed
+V0764,"Dada, Dhaliwal and Kala",Cloud Services,Tamil Nadu,Critical,East,0,0,0,85,2,96,Yes,Internal,1,0,1,0,2025-08-03,Annually,Open
+V0765,Palla Ltd,Power Infrastructure,Gujarat,Medium,South,0,2,0,85,0,92,Yes,Public,0,1,0,0,2025-10-06,Quarterly,Open
+V0766,Ramanathan-Buch,Power Infrastructure,Haryana,Medium,West,0,1,0,80,1,100,Yes,Internal,1,0,0,15,2025-11-17,Monthly,Under Review
+V0767,Bajaj-Jaggi,NOC Operations,Assam,Critical,East,0,0,0,90,0,87,Yes,Sensitive,1,0,0,15,2026-02-21,Monthly,Closed
+V0768,"Agrawal, Hayre and Prabhu",Field Operations,Mohali,High,South,3,14,8,65,7,72,No,Public,3,1,2,45,2025-12-20,Annually,Under Review
+V0769,Kanda LLC,Network Equipment,Noida,High,South,3,7,8,60,6,66,No,Sensitive,2,1,1,45,2025-09-17,Half-Yearly,Under Review
+V0770,Majumdar Ltd,Tower Maintenance,Tamil Nadu,Medium,North,1,2,7,70,4,77,No,Public,1,0,1,15,2026-03-01,Quarterly,Mitigation In Progress
+V0771,"Khalsa, Comar and Varughese",Fiber Operations,Bihar,Critical,West,0,0,2,85,0,99,Yes,Internal,0,0,0,15,2026-02-22,Quarterly,Mitigation In Progress
+V0772,Trivedi PLC,Cyber Security Services,Mohali,Medium,North,0,0,0,85,0,98,Yes,Public,1,0,0,0,2025-06-24,Monthly,Mitigation In Progress
+V0773,"Pradhan, Iyer and Verma",IT Support,Punjab,Critical,North,1,2,8,75,4,86,Yes,Internal,1,0,0,45,2026-05-28,Half-Yearly,Closed
+V0774,"Shroff, Saxena and Murthy",Field Operations,Madhya Pradesh,High,West,0,5,2,75,3,83,Yes,Confidential,1,1,2,30,2026-05-04,Quarterly,Closed
+V0775,Ravel-Ganguly,Cloud Services,Mohali,Low,South,1,4,1,90,0,95,Yes,Confidential,0,0,0,0,2026-04-15,Quarterly,Open
+V0776,"Tank, Lad and Roy",Field Operations,Chandigarh,Low,South,0,1,2,85,1,86,Yes,Internal,0,1,0,0,2025-10-19,Half-Yearly,Closed
+V0777,Sathe-Gokhale,NOC Operations,Noida,Critical,East,2,4,3,80,1,73,Yes,Sensitive,2,0,0,15,2025-07-06,Half-Yearly,Open
+V0778,Rege PLC,Cyber Security Services,Delhi,Medium,East,10,9,9,60,6,52,Yes,Public,4,4,5,60,2025-10-21,Annually,Under Review
+V0779,Maharaj-Bali,Data Center Services,Mohali,High,North,3,12,5,70,5,76,No,Public,4,1,1,60,2026-05-09,Annually,Closed
+V0780,"Sabharwal, Varghese and Deep",Network Equipment,Andhra Pradesh,Medium,West,3,3,2,90,5,88,Yes,Sensitive,1,2,1,30,2026-05-15,Monthly,Open
+V0781,Kumar-Guha,Power Infrastructure,Odisha,Medium,South,0,1,1,80,0,97,Yes,Public,0,0,0,15,2025-09-19,Half-Yearly,Under Review
+V0782,Manne-Dubey,Cyber Security Services,Gurugram,High,North,0,0,2,85,1,98,Yes,Confidential,0,0,0,0,2025-08-28,Monthly,Under Review
+V0783,"Halder, Hari and Dada",Managed Services,UP East,Critical,South,0,0,1,95,1,96,Yes,Sensitive,0,0,0,0,2025-07-07,Quarterly,Under Review
+V0784,"Varma, Sur and Mammen",Network Equipment,Haryana,Medium,North,1,5,4,70,2,77,No,Public,1,0,0,30,2026-01-30,Annually,Under Review
+V0785,"Garg, Hari and Bumb",Fiber Operations,Delhi,Medium,West,4,8,8,65,5,69,No,Confidential,1,1,3,60,2025-11-12,Quarterly,Open
+V0786,Vasa Inc,Data Center Services,Karnataka,Low,East,5,5,8,80,3,73,Yes,Sensitive,1,3,1,90,2026-05-20,Quarterly,Closed
+V0787,"Kar, Kala and Sharaf",RF Optimization,Haryana,High,West,1,8,2,80,3,73,Yes,Confidential,1,1,1,30,2026-04-03,Quarterly,Under Review
+V0788,Buch-Nadkarni,IT Support,Gujarat,High,West,0,8,5,85,3,86,No,Confidential,1,0,1,30,2025-07-31,Quarterly,Under Review
+V0789,Padmanabhan-Bhandari,Fiber Operations,UP West,Medium,East,0,2,5,85,3,77,Yes,Confidential,0,2,2,15,2026-05-23,Annually,Mitigation In Progress
+V0790,"Samra, Murthy and Batta",IT Support,Assam,High,West,5,13,6,75,5,64,Yes,Sensitive,2,2,1,30,2026-05-30,Quarterly,Mitigation In Progress
+V0791,Dass LLC,NOC Operations,Delhi,Low,West,1,3,4,85,1,78,Yes,Internal,1,0,2,0,2025-08-28,Half-Yearly,Open
+V0792,Mahal-Chacko,Managed Services,Gujarat,Medium,West,1,4,4,70,4,79,Yes,Sensitive,0,0,0,0,2025-12-19,Annually,Mitigation In Progress
+V0793,Edwin-Vasa,Network Equipment,Gurugram,Medium,East,0,1,0,85,0,99,Yes,Confidential,0,0,0,0,2025-11-12,Half-Yearly,Closed
+V0794,Solanki-Gill,Cloud Services,Mohali,Medium,North,1,6,3,80,2,76,Yes,Sensitive,2,0,0,0,2025-09-14,Monthly,Open
+V0795,"Padmanabhan, Bakshi and Dayal",Managed Services,Tamil Nadu,Low,East,1,2,3,80,3,80,No,Public,0,0,0,0,2025-07-15,Monthly,Mitigation In Progress
+V0796,Sanghvi-Oommen,Power Infrastructure,Rajasthan,High,North,3,7,4,65,6,62,No,Confidential,3,2,1,90,2025-08-12,Half-Yearly,Closed
+V0797,"Barman, Varma and Oak",RF Optimization,Assam,Low,West,8,8,9,50,9,47,No,Confidential,3,3,3,90,2026-03-23,Half-Yearly,Mitigation In Progress
+V0798,Hans-Sankaran,RF Optimization,Rajasthan,High,North,0,7,5,80,2,73,Yes,Public,0,1,1,15,2026-04-11,Half-Yearly,Open
+V0799,Ghose Ltd,Cyber Security Services,Mumbai,Medium,South,1,3,2,95,0,100,Yes,Public,0,0,0,15,2025-08-08,Annually,Under Review
+V0800,"Chatterjee, Varty and Jhaveri",Network Equipment,Chandigarh,Medium,South,2,2,5,80,3,86,Yes,Public,1,0,2,30,2026-03-18,Quarterly,Mitigation In Progress
+V0801,"Mall, Gill and Gera",Cyber Security Services,Karnataka,Low,East,3,5,6,70,3,74,Yes,Sensitive,3,2,3,30,2025-11-27,Annually,Under Review
+V0802,"Hegde, Bhardwaj and Joshi",Fiber Operations,Maharashtra,Medium,East,0,7,2,80,1,75,Yes,Sensitive,1,0,0,15,2025-12-04,Half-Yearly,Open
+V0803,"Apte, Pandey and Mammen",Cloud Services,Bihar,Low,South,1,6,7,80,3,84,Yes,Public,1,0,0,0,2025-11-19,Quarterly,Mitigation In Progress
+V0804,"Chauhan, Sodhi and Jayaraman",Power Infrastructure,Delhi,Low,North,4,6,6,65,4,64,Yes,Public,1,2,2,45,2025-08-29,Monthly,Closed
+V0805,Venkataraman Group,Fiber Operations,Andhra Pradesh,Medium,North,8,9,6,45,5,41,No,Public,7,4,5,180,2026-04-11,Half-Yearly,Mitigation In Progress
+V0806,Koshy Group,RF Optimization,Punjab,Critical,West,10,13,7,55,5,58,No,Public,3,3,4,150,2026-01-31,Quarterly,Closed
+V0807,Patel-Edwin,IT Support,Gurugram,Medium,North,4,7,8,75,7,73,No,Confidential,3,1,3,90,2026-06-12,Quarterly,Under Review
+V0808,Buch and Sons,Power Infrastructure,Gujarat,Critical,West,4,13,4,75,4,66,No,Public,1,1,3,30,2026-05-27,Quarterly,Open
+V0809,Sawhney-Tripathi,Field Operations,Assam,Critical,South,2,5,5,80,3,79,Yes,Public,0,2,0,45,2025-08-26,Annually,Under Review
+V0810,Rastogi and Sons,NOC Operations,Mumbai,Critical,North,2,5,3,85,3,83,Yes,Internal,0,2,0,30,2026-05-03,Annually,Under Review
+V0811,"Soman, Bhandari and Sankaran",Data Center Services,Karnataka,Critical,South,3,8,6,65,6,78,Yes,Public,2,1,2,30,2026-04-29,Monthly,Closed
+V0812,"Raman, Ranganathan and Manne",Tower Maintenance,Kerala,Medium,West,1,2,4,80,2,84,Yes,Public,2,0,1,0,2026-06-10,Quarterly,Under Review
+V0813,Brahmbhatt LLC,Tower Maintenance,Haryana,Critical,West,3,11,5,75,3,66,No,Confidential,2,3,2,45,2025-10-19,Annually,Closed
+V0814,Sodhi Group,Fiber Operations,Chandigarh,High,South,6,15,8,45,7,44,Yes,Sensitive,4,3,3,90,2025-10-16,Half-Yearly,Open
+V0815,"Mammen, Bhattacharyya and Bansal",IT Support,Gujarat,Critical,South,1,7,7,90,3,74,Yes,Public,0,0,0,15,2025-07-29,Annually,Closed
+V0816,"Jha, Sidhu and Menon",Network Equipment,UP East,Critical,North,0,3,5,80,3,86,Yes,Confidential,2,1,0,45,2025-11-01,Quarterly,Closed
+V0817,"Chada, Sura and Soman",IT Support,Noida,Low,East,0,6,6,90,5,74,Yes,Confidential,2,0,0,15,2026-02-25,Monthly,Under Review
+V0818,Mital-Sawhney,Managed Services,Assam,Medium,East,6,9,6,60,5,48,No,Internal,3,3,3,120,2026-03-29,Half-Yearly,Closed
+V0819,"Buch, Palan and Chowdhury",Data Center Services,Assam,Medium,East,0,2,1,90,0,90,Yes,Internal,0,0,1,0,2026-01-23,Half-Yearly,Mitigation In Progress
+V0820,Bhasin-Sathe,Fiber Operations,Delhi,High,West,1,4,2,70,3,72,No,Confidential,0,0,0,0,2026-03-12,Half-Yearly,Open
+V0821,"Gade, Ramakrishnan and Edwin",Cloud Services,Maharashtra,Medium,North,0,6,4,85,4,82,Yes,Confidential,0,1,0,0,2026-03-11,Half-Yearly,Open
+V0822,"Pingle, Grover and Dugar",Managed Services,Gurugram,Critical,West,3,8,5,60,4,70,No,Sensitive,3,3,1,30,2025-07-26,Annually,Closed
+V0823,Chaudhry Ltd,Network Equipment,Bihar,Critical,West,8,12,8,40,7,58,No,Sensitive,5,4,3,90,2026-03-20,Quarterly,Under Review
+V0824,"Bir, Dhawan and Majumdar",Field Operations,Punjab,Critical,West,7,10,7,55,5,65,No,Confidential,3,4,3,90,2026-03-13,Quarterly,Closed
+V0825,Wagle-Sarma,Data Center Services,Madhya Pradesh,Medium,North,0,0,0,85,0,94,Yes,Internal,1,0,0,0,2025-09-08,Half-Yearly,Mitigation In Progress
+V0826,Dubey and Sons,NOC Operations,West Bengal,Low,North,10,9,15,50,5,52,No,Sensitive,5,5,4,90,2026-06-07,Quarterly,Mitigation In Progress
+V0827,"Konda, Tella and Gokhale",RF Optimization,Tamil Nadu,Critical,North,5,11,6,60,4,72,Yes,Public,4,2,1,60,2026-02-10,Annually,Under Review
+V0828,Radhakrishnan-Issac,Managed Services,Tamil Nadu,High,East,0,2,3,90,0,85,No,Public,1,0,0,0,2025-10-31,Quarterly,Closed
+V0829,Oza-Bhargava,Tower Maintenance,Noida,Medium,North,4,9,6,75,3,66,Yes,Sensitive,1,3,1,30,2026-02-14,Monthly,Open
+V0830,Rana Ltd,Field Operations,Assam,Low,North,0,3,7,70,1,86,Yes,Public,0,1,1,0,2026-02-06,Half-Yearly,Closed
+V0831,"Sharaf, Ratta and Raja",Cloud Services,Gujarat,Critical,North,0,0,1,85,0,96,Yes,Internal,0,0,0,0,2026-04-02,Annually,Under Review
+V0832,Peri-Kurian,Power Infrastructure,Tamil Nadu,Critical,West,0,0,1,90,1,97,Yes,Confidential,0,0,0,0,2025-07-04,Monthly,Mitigation In Progress
+V0833,Master Inc,IT Support,Odisha,Critical,South,0,0,5,90,1,93,Yes,Sensitive,0,0,0,0,2026-04-21,Monthly,Mitigation In Progress
+V0834,Raja PLC,Managed Services,Madhya Pradesh,High,East,0,5,3,90,4,88,Yes,Public,0,0,0,0,2026-01-29,Monthly,Under Review
+V0835,Rao Inc,Cyber Security Services,Tamil Nadu,Low,West,1,2,2,95,1,96,Yes,Confidential,0,0,0,15,2026-06-01,Monthly,Under Review
+V0836,Baria Group,Cloud Services,UP East,Medium,East,2,5,7,75,2,72,Yes,Sensitive,2,1,0,0,2025-09-18,Half-Yearly,Open
+V0837,"Jani, Natarajan and Dani",RF Optimization,Andhra Pradesh,High,East,0,0,3,90,0,98,Yes,Public,0,1,0,0,2026-01-18,Quarterly,Under Review
+V0838,Kari-Mani,RF Optimization,Telangana,Low,South,2,3,6,80,4,81,No,Internal,0,0,0,30,2026-02-23,Monthly,Mitigation In Progress
+V0839,"Garde, Goda and Randhawa",NOC Operations,Maharashtra,Low,North,1,2,5,80,1,73,Yes,Confidential,0,0,1,0,2026-03-11,Annually,Open
+V0840,Dhingra Ltd,Tower Maintenance,Mohali,Medium,East,1,3,8,70,3,83,Yes,Internal,1,0,0,30,2025-10-02,Half-Yearly,Closed
+V0841,Nadig-Bhalla,Cloud Services,UP East,Low,North,6,14,10,55,7,55,No,Internal,3,3,5,150,2025-07-27,Quarterly,Closed
+V0842,Dube-Atwal,Network Equipment,Assam,High,West,0,2,6,75,2,78,No,Sensitive,1,2,0,30,2026-02-07,Annually,Closed
+V0843,"Halder, Jaggi and Bhattacharyya",Cloud Services,Delhi,Medium,West,1,2,0,90,0,97,Yes,Internal,0,0,0,0,2026-03-28,Half-Yearly,Closed
+V0844,"Parekh, Ram and Uppal",IT Support,Telangana,Medium,West,0,1,3,95,0,100,Yes,Public,1,0,1,0,2025-09-18,Half-Yearly,Closed
+V0845,Sodhi and Sons,RF Optimization,Madhya Pradesh,Low,East,1,7,5,85,3,74,Yes,Internal,0,0,0,0,2025-07-27,Monthly,Under Review
+V0846,"Kamdar, Dalal and Ahluwalia",Tower Maintenance,Gujarat,Low,East,0,0,0,85,0,92,Yes,Confidential,0,0,0,0,2026-03-13,Monthly,Under Review
+V0847,Chakrabarti-Sabharwal,Tower Maintenance,UP East,Critical,West,6,11,8,60,4,72,Yes,Sensitive,1,1,3,90,2025-08-03,Half-Yearly,Open
+V0848,Bava Group,Tower Maintenance,Andhra Pradesh,Low,South,5,5,5,70,7,72,No,Internal,1,2,2,90,2026-05-16,Monthly,Open
+V0849,"Sen, Sarna and Virk",Cyber Security Services,Telangana,High,South,6,11,4,60,4,65,No,Internal,2,2,2,30,2026-05-12,Annually,Closed
+V0850,Naidu Group,Fiber Operations,Tamil Nadu,Medium,West,4,5,4,75,3,77,No,Internal,1,1,3,30,2025-09-15,Half-Yearly,Closed
+V0851,Pandit-Mody,IT Support,Noida,Medium,East,0,3,3,85,3,84,Yes,Sensitive,0,0,0,30,2025-11-12,Annually,Open
+V0852,Prabhu PLC,RF Optimization,Noida,High,West,0,4,5,85,2,75,Yes,Internal,1,0,2,15,2026-01-24,Annually,Closed
+V0853,Grewal Inc,Cloud Services,Punjab,Critical,East,2,8,5,70,1,77,Yes,Confidential,0,1,1,45,2026-04-01,Annually,Under Review
+V0854,"Srinivasan, Luthra and Setty",RF Optimization,Delhi,Medium,South,3,10,7,60,5,71,No,Public,2,1,1,45,2026-06-12,Annually,Mitigation In Progress
+V0855,Lalla PLC,Cloud Services,Punjab,High,West,0,3,4,70,2,72,No,Sensitive,0,1,0,0,2026-01-22,Half-Yearly,Mitigation In Progress
+V0856,Taneja-Thakkar,Cyber Security Services,Maharashtra,Critical,North,4,6,4,70,3,70,No,Confidential,2,1,3,30,2026-01-14,Monthly,Closed
+V0857,Ramakrishnan-Morar,Cloud Services,Assam,Critical,West,0,2,1,95,1,86,Yes,Sensitive,0,0,0,0,2026-01-06,Half-Yearly,Mitigation In Progress
+V0858,"Andra, Karnik and Barman",Managed Services,UP East,Low,East,0,5,2,80,3,78,Yes,Public,1,0,0,0,2025-12-26,Monthly,Mitigation In Progress
+V0859,Golla-Deshmukh,Fiber Operations,Rajasthan,Low,East,1,1,0,85,0,97,No,Confidential,0,1,0,0,2025-07-09,Quarterly,Closed
+V0860,Divan LLC,Cyber Security Services,Chandigarh,High,North,2,5,8,75,3,88,Yes,Sensitive,1,0,0,30,2025-08-13,Quarterly,Closed
+V0861,Sani Ltd,Field Operations,Punjab,Low,East,8,8,7,55,8,62,No,Sensitive,6,3,3,150,2025-07-26,Quarterly,Under Review
+V0862,"Pau, Sama and Srinivas",NOC Operations,UP East,Medium,South,3,8,5,65,5,65,Yes,Public,1,1,1,45,2026-03-29,Monthly,Mitigation In Progress
+V0863,Raju Group,Cloud Services,Telangana,Low,North,0,2,1,90,0,94,No,Confidential,1,0,0,0,2026-06-05,Monthly,Open
+V0864,Gulati Ltd,Power Infrastructure,Haryana,Critical,North,1,3,5,75,2,86,Yes,Public,1,1,1,15,2025-08-01,Quarterly,Open
+V0865,Raghavan-Mukherjee,Network Equipment,Punjab,Medium,West,1,5,4,85,1,81,Yes,Sensitive,2,2,0,0,2025-09-28,Half-Yearly,Closed
+V0866,Shroff-Ghose,Tower Maintenance,Telangana,Medium,South,0,2,3,70,3,79,Yes,Sensitive,0,0,0,15,2026-05-10,Half-Yearly,Under Review
+V0867,"Kade, Badami and Verma",Managed Services,Mohali,Medium,South,1,6,2,85,2,76,Yes,Public,2,0,1,30,2025-12-13,Monthly,Closed
+V0868,Gill-Chakrabarti,Data Center Services,Noida,Low,South,0,1,3,100,0,95,Yes,Confidential,0,0,0,0,2026-01-12,Annually,Mitigation In Progress
+V0869,Sarkar-Panchal,Tower Maintenance,Andhra Pradesh,Medium,East,0,1,1,90,1,87,Yes,Sensitive,1,1,0,0,2026-01-29,Annually,Closed
+V0870,"Chaudry, Bera and Chokshi",IT Support,Telangana,Low,North,0,4,2,95,1,86,Yes,Internal,0,0,0,15,2026-01-16,Monthly,Mitigation In Progress
+V0871,"Minhas, Bera and Gopal",Cloud Services,Andhra Pradesh,Critical,West,0,1,1,85,0,93,Yes,Confidential,0,0,0,0,2026-04-15,Annually,Open
+V0872,"Basak, Johal and Virk",Tower Maintenance,Mohali,Medium,West,0,0,0,100,2,86,Yes,Public,0,0,0,0,2025-12-24,Quarterly,Under Review
+V0873,"Sekhon, Nanda and Srinivasan",IT Support,Mumbai,Medium,South,4,11,7,70,6,72,Yes,Public,2,3,1,30,2026-06-05,Annually,Open
+V0874,"Mody, Doshi and Jain",Field Operations,UP East,Low,South,1,3,4,90,4,77,No,Sensitive,2,1,0,0,2025-10-30,Half-Yearly,Closed
+V0875,Purohit LLC,Cyber Security Services,Haryana,Low,North,1,2,4,90,0,93,Yes,Internal,0,1,0,0,2025-10-22,Half-Yearly,Open
+V0876,"Tailor, Vaidya and Comar",Cyber Security Services,Mohali,Critical,East,0,7,5,80,4,86,Yes,Public,2,0,1,30,2026-05-16,Monthly,Closed
+V0877,Tailor Group,Tower Maintenance,Kerala,Critical,East,6,8,9,70,3,68,Yes,Public,2,1,2,90,2025-10-29,Half-Yearly,Open
+V0878,Maharaj-Shroff,Tower Maintenance,Kerala,High,North,0,1,2,90,2,92,Yes,Internal,1,0,0,0,2026-06-18,Monthly,Mitigation In Progress
+V0879,Dani LLC,Network Equipment,Andhra Pradesh,Critical,West,3,9,5,65,5,67,Yes,Internal,3,1,3,45,2025-11-13,Half-Yearly,Under Review
+V0880,"Naik, Rout and Prasad",Network Equipment,Kerala,Low,North,0,5,6,85,1,86,Yes,Public,0,0,2,15,2025-11-10,Annually,Under Review
+V0881,Bail Group,Cloud Services,Rajasthan,Low,West,0,0,0,85,0,94,Yes,Sensitive,0,0,0,0,2025-09-10,Monthly,Open
+V0882,"Cheema, Raja and Master",NOC Operations,Punjab,Medium,East,0,1,3,90,0,92,Yes,Public,0,1,0,0,2025-08-19,Annually,Open
+V0883,"Kala, Kunda and Bajaj",IT Support,Karnataka,Medium,West,0,0,0,85,3,85,Yes,Public,0,0,0,15,2025-07-04,Monthly,Open
+V0884,"Shroff, Sahota and Bhatnagar",Data Center Services,Mohali,Medium,South,0,3,4,70,2,78,No,Confidential,0,1,0,0,2026-06-02,Monthly,Mitigation In Progress
+V0885,"Barman, Pillay and Ravel",Cyber Security Services,Mumbai,High,West,0,2,2,100,3,100,Yes,Confidential,0,0,0,0,2026-03-26,Half-Yearly,Open
+V0886,Sangha Ltd,IT Support,UP East,High,North,2,6,2,80,5,80,Yes,Public,0,1,2,0,2026-04-09,Annually,Mitigation In Progress
+V0887,D’Alia-Lalla,Power Infrastructure,West Bengal,Low,East,1,0,4,100,0,88,Yes,Public,1,0,0,15,2025-10-12,Annually,Under Review
+V0888,Shere Inc,Field Operations,Mohali,High,East,0,0,1,95,3,100,Yes,Sensitive,0,0,0,0,2026-03-29,Monthly,Mitigation In Progress
+V0889,Solanki LLC,Field Operations,Haryana,Critical,South,0,0,2,95,2,94,Yes,Confidential,0,1,1,0,2025-11-15,Half-Yearly,Under Review
+V0890,"Goda, Saha and Narasimhan",Data Center Services,Bihar,High,East,0,0,3,90,1,90,Yes,Confidential,1,0,0,15,2026-01-23,Quarterly,Under Review
+V0891,"Vaidya, Khanna and Mitter",Tower Maintenance,West Bengal,Low,North,0,1,1,90,0,94,Yes,Internal,0,0,0,0,2025-11-10,Monthly,Mitigation In Progress
+V0892,Bali-Ramachandran,Managed Services,Rajasthan,Medium,North,0,0,4,95,2,94,No,Confidential,0,0,0,15,2026-02-14,Quarterly,Open
+V0893,"Thakkar, Mistry and Kannan",NOC Operations,Rajasthan,High,East,0,1,3,95,0,91,Yes,Sensitive,0,0,0,15,2026-03-10,Annually,Open
+V0894,Thaker Ltd,NOC Operations,Mohali,Critical,South,3,5,9,70,4,63,No,Sensitive,3,1,1,30,2026-03-12,Annually,Mitigation In Progress
+V0895,Das-Kibe,Tower Maintenance,Odisha,Low,East,1,0,2,90,1,98,Yes,Public,0,0,0,0,2025-08-04,Monthly,Mitigation In Progress
+V0896,Issac-Singh,Tower Maintenance,West Bengal,Critical,West,0,0,2,90,0,90,Yes,Internal,0,1,0,15,2026-05-26,Half-Yearly,Open
+V0897,"Mitter, Shan and Bhagat",NOC Operations,Rajasthan,High,North,0,1,1,85,1,98,Yes,Confidential,1,0,0,0,2025-10-13,Annually,Mitigation In Progress
+V0898,"Barman, Merchant and Chaudhry",Field Operations,Telangana,Medium,West,7,12,8,55,8,51,Yes,Public,3,3,3,150,2026-02-06,Half-Yearly,Open
+V0899,Sheth Inc,Data Center Services,Telangana,High,West,0,3,2,80,3,87,Yes,Confidential,1,1,0,15,2026-02-24,Half-Yearly,Closed
+V0900,Misra LLC,RF Optimization,UP East,Medium,West,4,7,8,70,3,77,No,Public,2,1,1,90,2025-12-13,Half-Yearly,Mitigation In Progress
+V0901,"Madan, Chakraborty and Bains",RF Optimization,West Bengal,Low,East,8,13,14,65,6,52,No,Sensitive,6,3,4,90,2025-09-09,Half-Yearly,Closed
+V0902,Bakshi and Sons,Managed Services,Andhra Pradesh,High,East,1,2,3,80,1,87,Yes,Confidential,0,0,0,0,2025-09-15,Annually,Under Review
+V0903,Issac LLC,Power Infrastructure,Madhya Pradesh,Critical,South,2,7,5,85,2,73,Yes,Sensitive,1,0,0,30,2025-06-28,Half-Yearly,Closed
+V0904,Dora Inc,NOC Operations,Punjab,Critical,East,0,0,4,80,0,87,Yes,Confidential,0,0,0,0,2026-06-11,Quarterly,Closed
+V0905,Banik Inc,Data Center Services,Noida,Low,West,0,0,2,95,0,95,No,Internal,0,0,0,0,2026-03-26,Annually,Closed
+V0906,Khosla-Goyal,Cyber Security Services,UP West,Low,North,6,8,5,75,3,71,No,Confidential,2,2,2,60,2026-03-31,Quarterly,Open
+V0907,Vig-Char,Data Center Services,Kerala,Critical,South,0,0,0,80,1,99,Yes,Public,0,0,0,0,2025-10-20,Half-Yearly,Under Review
+V0908,Hayre PLC,Cloud Services,Karnataka,High,East,2,4,4,70,2,75,Yes,Sensitive,1,0,1,30,2025-08-19,Half-Yearly,Mitigation In Progress
+V0909,Mahajan Inc,Cyber Security Services,West Bengal,Critical,North,0,2,0,85,0,96,Yes,Confidential,0,0,0,0,2025-11-22,Quarterly,Under Review
+V0910,Dyal Group,NOC Operations,Madhya Pradesh,Critical,South,0,1,0,85,0,89,Yes,Internal,0,1,0,15,2025-07-05,Annually,Open
+V0911,Pillai-Sidhu,Field Operations,Maharashtra,Critical,South,8,13,15,50,7,47,No,Sensitive,4,5,5,60,2026-06-01,Annually,Open
+V0912,Gulati PLC,Tower Maintenance,Odisha,Medium,West,2,6,5,75,3,84,Yes,Sensitive,1,0,0,45,2026-02-09,Monthly,Open
+V0913,Viswanathan Inc,Managed Services,Chandigarh,Low,East,1,4,5,80,1,72,Yes,Internal,1,0,1,45,2025-09-17,Half-Yearly,Open
+V0914,De and Sons,Power Infrastructure,Telangana,High,West,6,11,7,75,4,72,No,Sensitive,4,2,1,30,2026-05-10,Quarterly,Open
+V0915,Murty PLC,Data Center Services,Tamil Nadu,Critical,West,1,3,3,80,3,82,Yes,Internal,0,0,1,15,2025-11-25,Half-Yearly,Open
+V0916,Batra Inc,IT Support,Bihar,Low,South,6,9,5,70,7,69,No,Confidential,2,2,2,45,2025-07-02,Annually,Mitigation In Progress
+V0917,Tara and Sons,RF Optimization,Odisha,High,North,0,1,1,85,0,93,Yes,Confidential,0,0,0,0,2026-04-07,Monthly,Closed
+V0918,Prakash Group,Managed Services,Rajasthan,High,East,3,10,4,75,3,71,Yes,Internal,3,1,1,45,2026-03-18,Quarterly,Open
+V0919,Dhingra Ltd,Power Infrastructure,Kerala,Medium,West,0,1,1,95,3,97,Yes,Confidential,0,0,1,15,2026-05-08,Annually,Under Review
+V0920,"Varughese, Thaker and Parekh",IT Support,Mohali,Medium,South,1,6,4,90,2,78,Yes,Public,0,0,2,0,2026-05-11,Quarterly,Under Review
+V0921,Sama-Behl,Field Operations,Gurugram,Medium,West,0,0,1,85,0,92,Yes,Sensitive,0,0,0,0,2026-06-17,Half-Yearly,Mitigation In Progress
+V0922,Rastogi LLC,NOC Operations,Noida,Medium,West,0,0,3,85,0,90,Yes,Internal,0,0,0,0,2026-01-28,Half-Yearly,Closed
+V0923,"Bhattacharyya, Khosla and Rao",Cyber Security Services,Odisha,Low,West,0,3,2,70,3,85,Yes,Confidential,0,0,1,15,2026-03-07,Monthly,Mitigation In Progress
+V0924,"Dewan, Solanki and Apte",RF Optimization,UP East,Critical,North,1,0,1,80,0,87,Yes,Confidential,0,0,0,0,2025-09-25,Quarterly,Open
+V0925,Kaur and Sons,Fiber Operations,UP West,Low,East,0,0,1,100,0,90,Yes,Sensitive,0,0,0,15,2025-10-10,Half-Yearly,Under Review
+V0926,Konda and Sons,Power Infrastructure,Madhya Pradesh,Medium,East,7,17,9,65,10,62,No,Sensitive,3,3,4,120,2025-12-04,Monthly,Under Review
+V0927,"Manda, Chahal and Dani",Managed Services,UP East,High,North,1,3,5,75,1,85,Yes,Public,0,0,1,30,2026-05-23,Quarterly,Mitigation In Progress
+V0928,Mangat-Deol,Tower Maintenance,Bihar,High,West,0,0,5,100,1,91,Yes,Internal,0,1,0,0,2025-08-24,Half-Yearly,Mitigation In Progress
+V0929,Upadhyay-Trivedi,Data Center Services,Haryana,Medium,South,0,0,0,80,1,89,Yes,Sensitive,0,0,0,0,2026-02-04,Quarterly,Under Review
+V0930,Gulati-Kalita,Power Infrastructure,Noida,Critical,North,1,6,2,85,3,76,Yes,Sensitive,0,0,0,30,2025-09-13,Quarterly,Mitigation In Progress
+V0931,Bera Inc,Tower Maintenance,Mohali,Critical,South,0,0,0,95,0,98,Yes,Internal,1,0,0,15,2026-01-26,Half-Yearly,Under Review
+V0932,Bhardwaj-Salvi,Fiber Operations,UP West,Low,East,0,5,5,85,4,87,No,Sensitive,0,0,1,30,2026-04-23,Quarterly,Mitigation In Progress
+V0933,Dhawan Inc,Tower Maintenance,Gurugram,Low,West,0,0,1,90,0,85,Yes,Confidential,0,1,0,0,2025-10-01,Quarterly,Open
+V0934,Sant-Trivedi,Cloud Services,Andhra Pradesh,Low,East,4,10,7,75,4,73,No,Public,2,1,2,60,2025-08-29,Half-Yearly,Under Review
+V0935,Choudhury-Kaur,Managed Services,Maharashtra,High,West,0,2,2,90,1,98,No,Sensitive,0,1,0,0,2025-09-26,Half-Yearly,Open
+V0936,Sharma PLC,Fiber Operations,Punjab,Critical,South,0,1,3,95,0,97,Yes,Sensitive,0,0,1,0,2026-01-05,Half-Yearly,Mitigation In Progress
+V0937,"Gupta, Mangat and Deep",Fiber Operations,Delhi,Low,West,0,1,1,85,3,85,Yes,Internal,0,0,0,15,2026-02-07,Annually,Open
+V0938,"Chana, Ramachandran and Batra",Cyber Security Services,Gujarat,Critical,North,2,5,6,70,3,81,No,Internal,0,1,0,0,2026-01-19,Monthly,Closed
+V0939,Jayaraman-Malhotra,Cyber Security Services,Mohali,Critical,North,0,8,5,80,1,87,Yes,Internal,2,2,2,15,2026-02-09,Half-Yearly,Closed
+V0940,Thaman-D’Alia,Field Operations,Madhya Pradesh,Critical,South,1,0,0,90,2,100,No,Public,1,0,0,0,2026-06-13,Quarterly,Open
+V0941,"Banik, Puri and Kade",Field Operations,Assam,Low,North,0,0,2,80,3,86,Yes,Public,1,0,0,0,2025-11-10,Quarterly,Under Review
+V0942,Butala Inc,Managed Services,Telangana,Medium,West,3,3,3,70,3,79,No,Confidential,2,0,0,0,2025-09-22,Half-Yearly,Under Review
+V0943,Batta-Bakshi,Data Center Services,Noida,Critical,East,4,5,7,75,4,70,No,Public,2,1,1,60,2025-10-24,Annually,Under Review
+V0944,Loke and Sons,RF Optimization,Odisha,High,West,3,12,10,60,3,61,Yes,Public,3,1,1,45,2026-06-21,Quarterly,Open
+V0945,Chandran-Pathak,Cloud Services,Punjab,Medium,South,0,1,4,95,3,96,Yes,Sensitive,0,0,0,0,2026-04-03,Quarterly,Open
+V0946,Sane PLC,Fiber Operations,Mumbai,Critical,South,0,4,2,90,1,93,Yes,Sensitive,0,0,1,0,2026-03-04,Annually,Mitigation In Progress
+V0947,Mammen-Sani,Tower Maintenance,Odisha,Critical,North,0,3,3,100,2,96,No,Sensitive,0,0,0,0,2025-06-27,Monthly,Mitigation In Progress
+V0948,"Taneja, Nagarajan and Soman",Fiber Operations,Gurugram,Critical,South,6,8,5,70,4,71,No,Confidential,2,1,2,60,2026-05-09,Annually,Under Review
+V0949,Keer Group,Data Center Services,Kerala,Low,West,0,3,0,95,1,97,Yes,Public,0,1,0,0,2026-04-13,Monthly,Open
+V0950,"Kade, Solanki and Chana",Cyber Security Services,Noida,Critical,South,8,9,7,55,6,44,No,Public,6,3,3,120,2026-02-05,Annually,Open
+V0951,Jaggi Inc,Field Operations,Mumbai,High,South,0,3,0,95,1,97,Yes,Confidential,0,0,0,0,2026-03-28,Monthly,Closed
+V0952,Magar-Dora,Field Operations,Punjab,High,East,3,7,7,60,5,60,Yes,Public,2,3,1,90,2025-12-15,Quarterly,Mitigation In Progress
+V0953,Chada and Sons,Cloud Services,Odisha,Low,North,7,8,11,55,7,48,Yes,Confidential,4,4,3,90,2025-08-18,Monthly,Open
+V0954,Buch-Acharya,Cyber Security Services,Mumbai,Critical,North,1,9,6,85,3,76,No,Internal,1,1,0,0,2025-07-31,Monthly,Closed
+V0955,Kurian Inc,IT Support,Maharashtra,Low,South,1,2,4,80,5,88,Yes,Sensitive,2,0,1,15,2026-04-19,Half-Yearly,Under Review
+V0956,Pandey-Mand,Cloud Services,Punjab,Low,West,1,3,3,85,1,86,No,Confidential,0,2,1,15,2026-05-11,Annually,Under Review
+V0957,Banik Group,Network Equipment,UP East,Critical,East,0,0,1,100,0,93,Yes,Confidential,0,0,0,0,2026-01-30,Monthly,Open
+V0958,"Goel, Bail and Pingle",Power Infrastructure,Gurugram,Critical,North,3,13,9,70,3,66,Yes,Sensitive,4,1,1,45,2026-01-24,Quarterly,Closed
+V0959,Anne and Sons,Cloud Services,Gujarat,Low,East,0,2,2,85,0,96,Yes,Public,0,0,1,0,2026-01-27,Annually,Open
+V0960,"Kata, Kala and Shetty",Managed Services,Punjab,Low,East,6,6,10,70,3,65,No,Internal,1,3,3,45,2026-01-24,Half-Yearly,Open
+V0961,"Ramesh, Bhagat and Lad",Power Infrastructure,West Bengal,Medium,North,5,5,4,70,4,65,Yes,Internal,3,2,1,45,2025-06-24,Annually,Closed
+V0962,Rao Ltd,NOC Operations,Odisha,Critical,South,3,3,4,85,2,85,Yes,Internal,0,0,1,0,2026-02-18,Half-Yearly,Mitigation In Progress
+V0963,"Patla, Nayak and Sekhon",Data Center Services,Tamil Nadu,Low,North,0,3,1,90,0,91,Yes,Public,1,0,0,0,2026-01-07,Half-Yearly,Under Review
+V0964,Bhattacharyya LLC,Tower Maintenance,Andhra Pradesh,Low,West,1,9,2,80,3,88,Yes,Sensitive,0,0,1,15,2026-06-12,Quarterly,Open
+V0965,Mander-Sawhney,Tower Maintenance,Kerala,Medium,East,2,6,5,75,4,77,Yes,Sensitive,0,0,2,0,2026-03-03,Half-Yearly,Under Review
+V0966,Basu Ltd,Power Infrastructure,Madhya Pradesh,Medium,West,3,6,4,85,2,75,Yes,Confidential,0,1,1,0,2025-12-11,Half-Yearly,Closed
+V0967,"Salvi, Nair and Chaudhari",Managed Services,Andhra Pradesh,High,North,3,14,4,65,4,68,No,Internal,1,3,3,30,2025-10-17,Monthly,Under Review
+V0968,"Shah, Choudhry and Bal",Cyber Security Services,Kerala,High,East,6,8,8,55,8,58,No,Internal,4,4,5,180,2026-02-27,Quarterly,Closed
+V0969,"Chana, Nayar and Doshi",Network Equipment,Gurugram,Low,South,3,5,3,85,5,76,No,Public,1,0,1,45,2025-09-30,Monthly,Mitigation In Progress
+V0970,"Nagarajan, Pau and Dave",Network Equipment,Delhi,Medium,West,2,7,4,80,1,81,Yes,Sensitive,0,0,0,0,2025-07-09,Quarterly,Open
+V0971,"Sidhu, Subramanian and Kaur",Data Center Services,West Bengal,Medium,East,4,10,5,70,5,62,No,Confidential,2,1,1,30,2025-10-06,Quarterly,Open
+V0972,Varughese and Sons,Field Operations,Delhi,Medium,East,1,2,3,80,1,72,Yes,Confidential,1,0,1,15,2025-07-06,Quarterly,Open
+V0973,Iyengar-Ghosh,Field Operations,Chandigarh,High,West,0,2,2,85,1,85,Yes,Public,0,0,0,0,2025-07-04,Annually,Mitigation In Progress
+V0974,Bhandari-Rao,Fiber Operations,Rajasthan,High,North,1,2,4,80,3,72,Yes,Confidential,1,0,1,0,2025-08-14,Half-Yearly,Mitigation In Progress
+V0975,"Mandal, Murty and Iyer",Network Equipment,Telangana,Medium,North,1,3,7,80,4,80,Yes,Internal,0,1,0,30,2026-06-21,Quarterly,Under Review
+V0976,Pant PLC,Network Equipment,Andhra Pradesh,Critical,South,0,3,1,80,0,95,Yes,Public,0,1,0,0,2025-07-20,Monthly,Open
+V0977,Agate-Srivastava,Cyber Security Services,Chandigarh,Critical,North,0,3,5,85,1,80,No,Sensitive,2,0,2,45,2025-11-03,Half-Yearly,Under Review
+V0978,Sachar and Sons,Field Operations,Punjab,Medium,West,0,2,1,90,0,99,Yes,Internal,0,0,1,15,2025-12-08,Monthly,Mitigation In Progress
+V0979,Das-Gour,Fiber Operations,Noida,Medium,East,6,8,7,55,6,42,No,Sensitive,7,3,3,120,2026-05-16,Half-Yearly,Under Review
+V0980,"Bhandari, Panchal and Banerjee",Cloud Services,UP West,Critical,East,0,4,7,90,2,74,No,Sensitive,2,1,1,0,2026-01-10,Half-Yearly,Under Review
+V0981,Agarwal Inc,Fiber Operations,Rajasthan,Low,East,0,3,7,90,3,78,No,Public,1,1,1,15,2026-05-02,Half-Yearly,Mitigation In Progress
+V0982,"Bhagat, Suri and Dua",Cloud Services,West Bengal,Medium,North,0,1,2,100,0,87,No,Sensitive,0,0,0,0,2026-05-30,Half-Yearly,Closed
+V0983,Jayaraman-Venkataraman,NOC Operations,Maharashtra,Medium,West,0,0,1,90,1,86,Yes,Internal,1,0,0,15,2026-03-25,Monthly,Closed
+V0984,"Basu, Rajagopalan and Hegde",Cyber Security Services,Chandigarh,Medium,East,1,7,2,75,4,72,Yes,Internal,0,2,0,0,2026-04-21,Half-Yearly,Open
+V0985,Kara and Sons,Tower Maintenance,Mumbai,Medium,East,0,2,3,85,1,86,No,Confidential,0,1,0,0,2025-12-13,Monthly,Open
+V0986,"Sankaran, Dyal and Chana",Data Center Services,Gurugram,High,West,0,0,0,90,1,95,Yes,Internal,1,1,0,0,2025-10-18,Monthly,Open
+V0987,Chowdhury LLC,Managed Services,Odisha,Medium,North,0,0,0,90,3,95,Yes,Public,1,0,1,0,2026-01-21,Monthly,Mitigation In Progress
+V0988,Buch and Sons,Fiber Operations,Delhi,High,West,3,4,4,80,3,78,No,Confidential,0,0,0,0,2025-09-23,Monthly,Open
+V0989,"Dube, Tank and Pai",Field Operations,Haryana,Medium,West,0,1,1,95,0,88,Yes,Public,0,0,0,0,2025-12-06,Monthly,Under Review
+V0990,Lala-Baria,Network Equipment,Gujarat,Critical,West,4,8,4,60,6,76,No,Sensitive,1,3,1,90,2026-01-22,Annually,Under Review
+V0991,"Raman, Som and Kala",Cloud Services,West Bengal,Critical,East,2,2,6,70,3,82,Yes,Confidential,0,0,1,0,2025-12-04,Half-Yearly,Open
+V0992,"Banik, Sundaram and Dhaliwal",IT Support,Gujarat,Critical,North,0,1,4,85,3,94,No,Confidential,0,0,0,0,2026-01-03,Annually,Under Review
+V0993,Sehgal-Dhar,IT Support,Bihar,High,West,1,5,5,80,4,76,Yes,Internal,1,0,0,30,2026-01-09,Half-Yearly,Closed
+V0994,"Yadav, Kothari and Bassi",RF Optimization,Telangana,Medium,East,3,14,4,75,6,60,Yes,Confidential,2,1,1,30,2026-03-05,Half-Yearly,Under Review
+V0995,"Shukla, Boase and Bumb",Network Equipment,Bihar,Medium,South,4,8,9,65,6,69,Yes,Internal,2,2,3,30,2025-11-21,Annually,Under Review
+V0996,Parikh Inc,Data Center Services,Tamil Nadu,Medium,North,5,10,4,70,4,73,No,Sensitive,3,1,1,45,2025-10-11,Annually,Mitigation In Progress
+V0997,Bains LLC,Tower Maintenance,West Bengal,High,North,2,3,5,75,5,81,No,Public,0,0,0,0,2025-11-18,Half-Yearly,Under Review
+V0998,Merchant-Ganguly,Tower Maintenance,Mumbai,Critical,South,8,8,11,65,5,56,Yes,Sensitive,4,3,3,120,2026-05-31,Annually,Open
+V0999,Jayaraman-Tandon,Data Center Services,Telangana,Medium,East,0,0,0,80,0,100,Yes,Confidential,1,0,0,15,2025-12-26,Half-Yearly,Open
+V1000,"Srinivasan, Ray and Mandal",Network Equipment,West Bengal,Medium,South,8,12,12,55,5,61,No,Sensitive,4,4,5,180,2026-02-24,Annually,Open
