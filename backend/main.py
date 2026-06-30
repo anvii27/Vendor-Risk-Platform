@@ -1,5 +1,6 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from model import predict_anomalies, get_anomaly_summary
 import pandas as pd
 import io
 import sys 
@@ -90,4 +91,24 @@ def score(payload: dict):
         "message": "Scoring complete",
         "stats": stats,
         "data": df_scored.to_dict(orient="records")
+    }
+
+@app.post("/predict")
+def predict(payload: dict):
+    records = payload.get("data", [])
+
+    if not records:
+        raise HTTPException(
+            status_code=400,
+            detail="No vendor data provided."
+        )
+
+    df = pd.DataFrame(records)
+    df_result = predict_anomalies(df)
+    summary = get_anomaly_summary(df_result)
+
+    return {
+        "message": "Anomaly detection complete",
+        "anomaly_summary": summary,
+        "data": df_result.to_dict(orient="records")
     }

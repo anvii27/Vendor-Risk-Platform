@@ -9,4 +9,5 @@ faker
 openpyxl
 python-multipart
 joblib
-google-generativeai
+google-generativeaigoogle-generativeai
+plotly
