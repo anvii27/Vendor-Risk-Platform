@@ -1,6 +1,7 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from model import predict_anomalies, get_anomaly_summary
+from utils import generate_vendor_summary
 import pandas as pd
 import io
 import sys 
@@ -112,3 +113,14 @@ def predict(payload: dict):
         "anomaly_summary": summary,
         "data": df_result.to_dict(orient="records")
     }
+
+@app.post("/summary")
+def summary(payload: dict):
+    vendor = payload.get("vendor", {})
+    if not vendor:
+        raise HTTPException(
+            status_code=400,
+            detail="No vendor data provided."
+        )
+    text = generate_vendor_summary(vendor)
+    return {"summary": text}
