@@ -210,6 +210,27 @@ with col4:
 
 st.divider()
 
+# ── Immediate action section ──────────────────────────────────────────────────
+critical_vendors = df[
+    (df["Calculated_Risk_Level"] == "Critical")
+].sort_values("Risk_Score", ascending=False).head(5)
+
+if len(critical_vendors) > 0:
+    st.subheader("Vendors Requiring Immediate Action")
+    st.caption("Top 5 Critical risk vendors — escalate immediately")
+
+    for _, row in critical_vendors.iterrows():
+        col_name, col_score, col_findings, col_incidents, col_days = st.columns([3, 1, 1, 1, 1])
+
+        col_name.markdown(f"**{row['Vendor_Name']}**  \n{row['Vendor_Category']} — {row['Region']}")
+        col_score.metric("Risk Score", row["Risk_Score"])
+        col_findings.metric("Critical Findings", row["Critical_Findings"])
+        col_incidents.metric("Incidents", row["Security_Incidents"])
+        col_days.metric("Days Overdue", row["Mitigation_Overdue_Days"])
+
+        st.divider()
+        
+
 # ── Vendor table ──────────────────────────────────────────────────────────────
 st.subheader("Vendor Risk Table")
 
