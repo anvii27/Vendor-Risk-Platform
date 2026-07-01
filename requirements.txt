@@ -11,3 +11,4 @@ python-multipart
 joblib
 google-generativeaigoogle-generativeai
 plotly
+groq
