@@ -5,7 +5,7 @@ An end-to-end **Third-Party Risk Management (TPRM)** platform built for telecom 
 ---
 
 ## 🔗 Live Demo
-> Add your Streamlit Cloud link here after deployment
+> https://vendor-risk-platform-dihlmsssvn9lqnfdzklfhc.streamlit.app/
 
 ---
 
