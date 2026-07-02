@@ -5,7 +5,7 @@ import plotly.express as px
 import sys
 import os
 
-BACKEND = "http://localhost:8000"
+BACKEND = " https://vendor-risk-platform-s7mu.onrender.com"
 
 sys.path.append(os.path.join(os.path.dirname(__file__), "../backend"))
 
